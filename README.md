@@ -1,6 +1,6 @@
 Chipmunk-of-cocos2dx-to-work-ported-to-android.
 =============================
-**I  ported    "chipmunk"   that is one of  "cocos2dx"  of the famous game libraries to the android applications to work.**
+**I  ported    "chipmunk"   that is one of  "cocos2dx"  of the famous game libraries to the Android Apps(applications) as  to work.**
   
 ゲームライブラリの**cocoss2d-xの「chipmunk」**で、それに  
 最初からついている**xCodeのアプリ(**、つまり**iPhone等マックのアプリ**が作られる**)**だけでは  
@@ -9,3 +9,4 @@ Chipmunk-of-cocos2dx-to-work-ported-to-android.
 
 
 ***
+*手順
