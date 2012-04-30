@@ -8,7 +8,7 @@ Chipmunk-of-cocos2dx_ported_to_Android-Apps_as_to_work.
 してみました。（最新のcocos2d-1.0.1-x-0.13.0-beta (Mar 29, 2012) を使用しました。  
 http://www.cocos2d-x.org/projects/cocos2d-x/wiki/Download このベータ版でなく その  
 まえのcocos2d-1.0.1-x-0.12.0 (Mar 05, 2012)では何故かまだうまくゆきません。ただ、  
-元々cocos2d-xはこれまで、これら13.0-betaや12もふくめどのバージョンにもchipmunkは  
-「アンドロイド専用の
+元々cocos2d-xは、これら13.0-betaや12もふくめどのバージョンにもこれまで  
+chipmunkに、「アンドロイド専用のコードは無かった」と思います。４つのうち
 ***
 * 手順
