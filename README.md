@@ -12,7 +12,7 @@ Chipmunk-of-cocos2dx_ported_to_Android-Apps_as_to_work.
 ***  
 * 繰返しになりますが 最新のcocos2d-1.0.1-x-0.13.0-beta (Mar 29, 2012)で行ないます。  
 http://www.cocos2d-x.org/projects/cocos2d-x/wiki/Download このベータ版でなく その  
-まえのcocos2d-1.0.1-x-0.12.0 (Mar 05, 2012)では何故かまだうまくゆきません。ただ、  
+まえのcocos2d-1.0.1-x-0.12.0 (Mar 05, 2012)ではどういう訳かうまくゆきません。ただ、  
   元々cocos2d-xは、これら13.0-betaや12もふくめ、どのバージョンにも、  
   
   
@@ -28,4 +28,4 @@ cocos2dx、cocos2dx-luaの２つは常にかならず
 **Box2dも、すでにもうアンドロイド(Andoroid、eclipse)に移植し動作**しておりますので   
   
   
-  ここかあるいは別な新たな所で後日 それも必ず掲載したいと現在考えております次第です。
+  ここかあるいは別な新たな所で後程それも 必ず掲載したいと現在考えております次第です。
