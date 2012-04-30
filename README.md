@@ -7,7 +7,7 @@ Chipmunk-of-cocos2dx_ported_to_Android-Apps_as_to_work.
 なくて、**アンドロイドアプリ（エクリプス（jniも使用））** も  
 作れるように   
 してみました。（ cocos2d-1.0.1-x-0.13.0-beta (Mar 29, 2012 ) を 使用しました。)
-* [http://www.cocos2d-x.org/projects/cocos2d-x/wiki/Download]
+http://www.cocos2d-x.org/projects/cocos2d-x/wiki/Download
 
 ***
 * 手順
