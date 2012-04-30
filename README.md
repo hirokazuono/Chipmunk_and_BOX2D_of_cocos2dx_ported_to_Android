@@ -2,6 +2,7 @@ Chipmunk-of-cocos2dx_ported_to_Android-Apps_as_to_work.
 =============================
 **I  ported    "chipmunk"   that is one of  "cocos2dx"  of the famous game libraries to the Android Apps(applications) as  to work.**
   
+**( box2d, too. )**  
 ゲームライブラリの**cocoss2d-xの「chipmunk」**で最初からサンプルコードとして  
 ある**xCodeのアプリ(**、つまり**iPhone等マックのアプリ**が作られる**)** だけではなくて  
   
@@ -22,3 +23,6 @@ http://www.cocos2d-x.org/projects/cocos2d-x/wiki/Download このベータ版で�
 
    **Box2dもすでにもうアンドロイド(Andoroid、eclipse)に 移植し動作**しておりますので、   
 それも 今後ここかあるいは別な新たな所で、掲載したいと現在考えております次第です。
+  
+* ところでこの（ベータ版の）13でアンドロイドに移植した場合に  
+**（バックキー、メニューキーなどでもそうなりますが）他の画面に変え再び元の画面に戻った時に「画像が表示されなくなる」**
