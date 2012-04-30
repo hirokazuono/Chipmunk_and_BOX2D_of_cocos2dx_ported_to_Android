@@ -14,9 +14,7 @@ Chipmunk-of-cocos2dx_ported_to_Android-Apps_as_to_work.
 http://www.cocos2d-x.org/projects/cocos2d-x/wiki/Download このベータ版でなく その  
 まえのcocos2d-1.0.1-x-0.12.0 (Mar 05, 2012)ではどういう訳かうまくゆきません。ただ、  
   元々cocos2d-xは、これら13.0-betaや12もふくめ、どのバージョンにも、  
-  
-  
-  **chipmunkに「アンドロイド専用のコードはこれまでずっと無かった」**とも 思います。  
+**chipmunkに「アンドロイド専用のコードはこれまでずっと無かった」**とも 思います。  
   
   
   ４つ（＝cocos2dx、cocos2dx-box2d、**cocos2dx-chipmunk**、cocos2dx-lua）のうち  
