@@ -19,5 +19,5 @@ http://www.cocos2d-x.org/projects/cocos2d-x/wiki/Download このベータ版で�
 **cocos2dx、cocos2dx-luaの２つ**には、常に必ず、  
 　「**マック（xCode) と アンドロイド(Andoroid、eclipse) 両方ある**」ようなのですが、  
 のこり２つは なぜか 「 **xCode（マック）だけ** 」 しか ありません。なお  
-**Box2dも アンドロイド(Andoroid、eclipse)に すでにもう移植し動作** しておりますので、   
-それも 今後ここかあるいは別な新たな所で必ず掲載したいと現在考えております次第です。
+**Box2dも アンドロイド(Andoroid、eclipse)にすでにもう移植し動作**しておりますので、   
+今後ここかあるいは別な新たな所で、それも掲載したいと現在考えております次第です。
