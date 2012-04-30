@@ -21,5 +21,8 @@ http://www.cocos2d-x.org/projects/cocos2d-x/wiki/Download このベータ版で�
   
   ４つ（＝cocos2dx、cocos2dx-box2d、**cocos2dx-chipmunk**、cocos2dx-lua）のうち  
 cocos2dx、cocos2dx-luaの２つは常にかならず  
-「**マック（xCode) と アンドロイド(Andoroid、eclipse) 両方ある**」様なのですが、   
-なぜかのこり２つはずっと「xCode（マック）だけしかありません」でした。
+　「**マック（xCode) と アンドロイド(Andoroid、eclipse) 両方ある**」様なのですが、   
+  
+  
+  
+  なぜかのこり２つはずっと「xCode（マック）だけしかありません」でした。
