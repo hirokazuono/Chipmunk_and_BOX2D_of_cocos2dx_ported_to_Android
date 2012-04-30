@@ -16,9 +16,9 @@ http://www.cocos2d-x.org/projects/cocos2d-x/wiki/Download このベータ版で�
   元々、cocos2d-xは、これら13.0-betaや12もふくめて どのバージョンでも、  
 　**chipmunkに「アンドロイド専用のコードはこれまで 無かった」**ようにも 思います。  
   ４つ（＝cocos2dx、cocos2dx-box2d、**cocos2dx-chipmunk**、cocos2dx-lua）のうち  
-**cocos2dx、cocos2dx-luaの２つ**には、常に、かならず  
-　「**マック（xCode) と アンドロイド(Andoroid、eclipse) 両方ある**」ようなのに、  
-のこりの２つは なぜか 「 **xCode（マック）だけ** 」 しか無いようです。なお、  
+**cocos2dx、cocos2dx-luaの２つには**、常に、かならず  
+　**「マック（xCode) と アンドロイド(Andoroid、eclipse) 両方ある」**ようなのに、  
+**のこりの２つは なぜか 「 xCode（マック）だけ 」** しか無いようです。なお、  
 
    **Box2dもすでにもうアンドロイド(Andoroid、eclipse)に 移植し動作**しておりますので、   
 それも 今後ここかあるいは別な新たな所で、掲載したいと現在考えております次第です。
