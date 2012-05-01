@@ -5,7 +5,7 @@ Chipmunk-of-cocos2dx_ported_to_Android-Apps_as_to_work.
   **( box2d, too. )**  
   
 
-     ゲームライブラリの**cocoss2d-xの「chipmunk」**で最初からサンプルコードとして  
+  ゲームライブラリの**cocoss2d-xの「chipmunk」**で最初からサンプルコードとして  
 ある**xCodeのアプリ(**、つまり**iPhone等マックのアプリ**が作られる**)** だけではなくて  
   
   **アンドロイドアプリ（エクリプス（jniも使用））** も 作れるように   
