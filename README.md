@@ -3,7 +3,9 @@ Chipmunk-of-cocos2dx_ported_to_Android-Apps_as_to_work.
 **I  ported    "chipmunk"   that is one of  "cocos2dx"  of the famous game libraries to the Android Apps(applications) as  to work.**
   
   **( box2d, too. )**  
-  ゲームライブラリの**cocoss2d-xの「chipmunk」**で最初からサンプルコードとして  
+  
+
+     ゲームライブラリの**cocoss2d-xの「chipmunk」**で最初からサンプルコードとして  
 ある**xCodeのアプリ(**、つまり**iPhone等マックのアプリ**が作られる**)** だけではなくて  
   
   **アンドロイドアプリ（エクリプス（jniも使用））** も 作れるように   
@@ -29,7 +31,8 @@ http://www.cocos2d-x.org/projects/cocos2d-x/wiki/Download このベータ版で�
 戻った際に、「画像が表示されなくなる」不具合（？？）**が、みられませんでしょうか?  
 しかもこうして今私が記載している  
 「box2dやchipmunkのようにはじめからアンドロイドのソースなど無いもの」だけでなく  
-**アンドロイド(Andoroid、eclipse)のソースのものも（前述cocos2xやlua、それ以外も?)  
+
+   **アンドロイド(Andoroid、eclipse)のソースのものも（前述cocos2xやlua、それ以外も?)  
 そうした〜画像が表示されなくなる〜状態が、みられる** という気もします。私の実機の  
 **スマホやそのOSなどの不具合によるものに もしかしてすぎない**かもしれませんが  
 (そのばあい深く心よりお詫び致しますが、)一応「記載しておきたい」と思います。最初の  
