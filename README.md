@@ -1,8 +1,7 @@
 Chipmunk-of-cocos2dx_ported_to_Android-Apps_as_to_work.
 =============================
 **I  ported    "chipmunk"   that is one of  "cocos2dx"  of the famous game libraries to the Android Apps(applications) as  to work.**
-  
-**( box2d, too. )**  
+  **( box2d, too. )**  
 ゲームライブラリの**cocoss2d-xの「chipmunk」**で最初からサンプルコードとして  
 ある**xCodeのアプリ(**、つまり**iPhone等マックのアプリ**が作られる**)** だけではなくて  
   
@@ -33,6 +32,6 @@ http://www.cocos2d-x.org/projects/cocos2d-x/wiki/Download このベータ版で�
 そうした〜画像が表示されなくなる〜状態が、みられる** という気もします。私の実機の  
 **スマホやそのOSなどの不具合によるものに もしかしてすぎない**かもしれませんが  
 (そのばあい深く心よりお詫び致しますが、)一応「記載しておきたい」と思います。最初の  
-バージョン12でただ「アンドロイドに移植ができない不具合」と違い**（ バージョン13の  
-すべての（アンドロイドに移植した場合の）ソースで画面切換えると画像表示されなくなる**と  
-いう感じなのですが。
+バージョン12でただ「アンドロイドに移植ができない不具合」と違いこの、**バージョン13は  
+すべての（アンドロイドに移植した場合の）ソースで画面切換えると画像表示されなくなる**  
+という感じなのですが。
