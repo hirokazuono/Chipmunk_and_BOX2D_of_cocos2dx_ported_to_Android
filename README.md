@@ -8,10 +8,10 @@ to the Android Apps(applications) as  to work.
 </pre>
 <table><tr>
 <td><b>version</b>(right)<br><b>type</b> (below)</td><td>11</td><td>12</td><td>13beta</td></tr>
-<tr><td><b>H</b>ofBOX2D<hr>&nbsp; (except <b>H</b>)</td>
-<td>Ap&A in <b>j</b>, A in <b>h</b>in<b>j</b>, A in <b>C</b>(4)&<b>B</b><hr></td>
-<td>Ap&A in <b>j</b>, A in <b>h</b>in<b>j</b>, A in <b>C</b>(4)<hr></td>
-<td>A in <b>j</b>(Ap no modified.No A  in <b>h</b>in<b>j</b> & A in <b>C</b>)<hr></td></tr>
+<tr><td><b>H</b>ofBOX2D<br><hr>&nbsp; (except <b>H</b>)</td>
+<td>Ap&A in <b>j</b>, A in <b>h</b>(in<b>j)</b>, A in <b>C</b>(4)<br>&B2DabobeHto<b>C(in<b>B</b>)</b><hr></td>
+<td>Ap&A in <b>j</b>, A in <b>h</b>(in<b>j)</b>, A in <b>C</b>(4)<br><hr></td>
+<td>A in <b>j</b>(Ap no modified.No A  in <b>h</b>(in<b>j</b>) & A in <b>C</b>)<br><hr></td></tr>
 
 <tr><td><b>H</b>of chipmunk<hr>(except <b>H</b>)</pre></td>
 <td><br>&nbsp;</td>
