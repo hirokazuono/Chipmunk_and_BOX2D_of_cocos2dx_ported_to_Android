@@ -5,7 +5,7 @@ to the Android Apps(applications) as  to work.
  
 <table><tr><td>type( right )<br>ver( below )</td><td>11</td><td>12</td><td>13beta</td></tr>
 <tr><td>BOX2D(in HelloWorldDir(fld)<br>&nbsp;( witwout HelloWorld folder)</td>
-<td><br>Ap.mk&A.mk in jni(Dir) / A.mk in jni(Dir) in helloworld(Dir)</td>
+<td><br>Ap.mk&A.mk in jni(Dir) / A.mk in jni(Dir) in h(D)</td>
 <td><br>&nbsp;</td>
 <td><br>&nbsp;</td></tr>
 
@@ -13,7 +13,7 @@ to the Android Apps(applications) as  to work.
 <td><br>&nbsp;</td>
 <td><br>&nbsp;</td>
 <td><br>&nbsp;</td></tr>
-**NOTE : Ap.mk = Application.mk , A.mk = Android.mk**
+**NOTE : Ap.mk = Application.mk , A.mk = Android.mk , h(D) =  helloworld(Dir) , t(D) = template(Dir)**
 </pre>
 
   
