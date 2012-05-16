@@ -4,10 +4,10 @@ I ported **cocos2d-x**( or cocos2dx? that is one of the famous game libraries)**
 to the Android Apps(applications) as  to work.
  
 
-<pre style="text-align:center;"><b>type ver</b> 11 12 13beta
-BOX2d 
+<table><tr><td>type<br>ver</td><td>11</td><td>12</td><td>13beta</td></tr>
+<tr><td>BOX2d</td><td> </td><td> </td><td> </td></tr>
 
-chipmunk 
+<tr><td>chipmunk </td><td> </td><td> </td><td> </td></tr>
 
 </pre>
 
