@@ -4,8 +4,8 @@ I ported **cocos2d-x**( or cocos2dx? that is one of the famous game libraries)**
 to the Android Apps(applications) as  to work.  
 <pre><b>NOTE : Ap = Application.mk , A = Android.mk</b>
 &nbsp; , Dir(fld) = Directory(or Folder) , <b>j = jni(Dir) , h =  helloworld(Dir) , C = Classes(Dir)
-, H = HelloWorld(Dir</b>, topDir of this changing,not "helloworldDir" abobe.<b>)</b>
-&nbsp; , <b>t = template(Dir</b> other than(<b>out of</b>) <b>H</b>)
+, H = HelloWorld(Dir</b>. TopDir of this changing , not "helloworldDir" abobe. <b>)</b>
+&nbsp; , <b>t = template(Dir</b>. Other than(<b>Out of</b>) <b>H</b>Dir(fld). <b>)</b>
 </pre>
 <table><tr>
 <td><b>version</b>(right)</td><td>11</td><td>12</td><td>13beta</td></tr>
