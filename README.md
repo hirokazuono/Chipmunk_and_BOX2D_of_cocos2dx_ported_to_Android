@@ -3,15 +3,14 @@ Chipmunk-of-cocos2dx_ported_to_Android-Apps_as_to_work.
 I ported **cocos2d-x**( or cocos2dx? that is one of the famous game libraries)**'s "chipmunk" & "BOX2D"**  
 to the Android Apps(applications) as  to work.
    
-  
-**h**
-<table><tr><td>type( right )<br>ver( below )</td><td>11</td><td>12</td><td>13beta</td></tr>
-<tr><td>BOX2Din **H**<br>&nbsp; witwout **H**</td>
-<td>Ap&A in **j** / A in **j** in **h** / A in **C**(4)<br></td>
-<td>Ap&A in **j** / A in **j** in **h** / A in **C**(4)<br></td>
-<td>A in **j** (Ap no modified. No A in **j** in **h** &A in **C** )<br></td></tr>
 
-<tr><td>chipmunk(in **H**)<br>&nbsp;( witwout **H**)</td>
+<table><tr><td>type( right )<br>ver( below )</td><td>11</td><td>12</td><td>13beta</td></tr>
+<tr><td>BOX2Din<b>H</b><br>&nbsp; witwout<b>H</b></td>
+<td>Ap&A in<b>j</b> / A in<b>j</b> in<b>h</b> / A in<b>C</b>(4)<br></td>
+<td>Ap&A in<b>j</b> / A in<b>j</b> in<b>h</b> / A in<b>C</b>(4)<br></td>
+<td>A in<b>j</b>(Ap no modified. No A in<b>j** in<b>h</b>&A in<b>C</b>)<br></td></tr>
+
+<tr><td>chipmunk(in <b>H</b>)<br>&nbsp;( without <b>H</b> )</td>
 <td><br>&nbsp;</td>
 <td><br>&nbsp;</td>
 <td><br>&nbsp;</td></tr></table>
