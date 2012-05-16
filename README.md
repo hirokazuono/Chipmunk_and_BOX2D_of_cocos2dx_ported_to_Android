@@ -25,8 +25,8 @@ to the Android Apps(applications) as  to work.
 ***
 1.At the 1st,Create **xCode's cocos2d-x files** by **install-templates-xcode.sh** in a dir(fld) of 11 or 12 or 13beta's files  
 &nbsp; that are downloads from cocos2d-x.org(&zip extracting).  
- ( Each xCode's cocos2d-x files(of 11,12,&13beta) create by "  
-&nbsp; ./install-templates-xcode.sh **-uf** "  
+ ( Each xCode's cocos2d-x files(of 11,12,&13beta) create  
+&nbsp; &nbsp; by "./install-templates-xcode.sh **-uf** "  
 &nbsp; within each downloaded dir(fld,of 11,12,&13beta from cocos2d-x.org). )
 
   
