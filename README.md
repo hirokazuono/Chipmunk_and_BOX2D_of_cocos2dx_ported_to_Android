@@ -15,6 +15,6 @@ to the Android Apps(applications) as  to work.
 <td>A in <b>j</b>(Ap no modified.No A in <b>h</b>(in<b>j</b>) & in <b>C</b>)</b> =<b>1</b></td></tr>
 
 <tr><td>in <b>t</b>Dir(fld)</td>
-<td>Ap in <b>t</b> =<b>5</b>(files change&copy)</td>
-<td>(<b>4</b>files change&copy)</td>
-<td>(<b>1</b>files change&copy)</td></tr></table>
+<td>Ap in <b>t</b> =<b>5</b>(files chge&copy)</td>
+<td></td>
+<td></td></tr></table>
