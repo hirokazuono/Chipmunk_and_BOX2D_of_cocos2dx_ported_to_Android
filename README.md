@@ -8,12 +8,12 @@ to the Android Apps(applications) as  to work.
 </pre>
 <table><tr>
 <td><b>version</b>(right)<br><b>type</b> (below)</td><td>11</td><td>12</td><td>13beta</td></tr>
-<tr><td>BOX2D in <b>H</b><br>&nbsp; ( without <b>H</b> )</td>
+<tr><td>BOX2D in <b>HW</b><br>&nbsp; ( without <b>Hw</b> )</td>
 <td>Ap&A in <b>j</b> , A in <b>j</b> in <b>h</b> , A in <b>C</b>(4)<br></td>
 <td>Ap&A in <b>j</b> , A in <b>j</b> in <b>h</b> , A in <b>C</b>(4)<br></td>
 <td>A in <b>j</b>(Ap no modified.No A in <b>j</b> in <b>h</b> & A in <b>C</b>)<br></td></tr>
 
-<tr><td>chipmunk in<b>H</b><br>&nbsp; ( without <b>H</b> )</pre></td>
+<tr><td>chipmunk in<b>HW</b><br>&nbsp; ( without <b>HW</b> )</pre></td>
 <td><br>&nbsp;</td>
 <td><br>&nbsp;</td>
 <td><br>&nbsp;</td></tr></table>
