@@ -3,8 +3,9 @@ Chipmunk-of-cocos2dx_ported_to_Android-Apps_as_to_work.
 I ported **cocos2d-x**( or cocos2dx? that is one of the famous game libraries)**'s "chipmunk" & "BOX2D"**  
 to the Android Apps(applications) as  to work.  
   
-<pre><b>NOTE : Ap = Application.mk , A = Android.mk , j = jni(Dir) , h =  helloworld(Dir) , C = Classes(Dir)
-, t = template(Dir) , HW = HelloWorld(Dir.topDir of this changing,not abobe helloworldDir.)</b>
+<pre><b>NOTE : Ap = Application.mk , A = Android.mk , j = jni(Dir)
+, h =  helloworld(Dir) , C = Classes(Dir) , t = template(Dir)
+, HW = HelloWorld(Dir.topDir of this changing,not abobe helloworldDir.)</b>
 , Dir(fld) = Directory(or Folder)
 </pre>
 <table><tr>
