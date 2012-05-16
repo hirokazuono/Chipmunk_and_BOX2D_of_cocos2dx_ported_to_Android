@@ -4,7 +4,7 @@ I ported **cocos2d-x**( or cocos2dx? that is one of the famous game libraries)**
 to the Android Apps(applications) as  to work.
  
 <table><tr><td style="line-height:6px;font-size:6px;">type<br>ver</td><td>11</td><td>12</td><td>13beta</td></tr>
-<tr><td style="line-height:6px;font-size:6px;">BOX2d</td><td> </td><td> </td><td> </td></tr>
+<tr><td style="line-height:6px;font-size:1px;">BOX2d</td><td> </td><td> </td><td> </td></tr>
 
 <tr><td style="line-height:6px;font-size:6px;">chipmunk </td><td> </td><td> </td><td> </td></tr>
 
