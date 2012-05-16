@@ -11,10 +11,10 @@ to the Android Apps(applications) as  to work.
 <td><b>version</b>(right)</td><td>11</td><td>12</td><td>13beta</td></tr>
 <tr><td>in <b>H</b>Dir(fld)</td>
 <td>Ap&A in <b>j</b> / A in <b>h</b>(in<b>j)</b> / A in <b>C</b></td>
-<td>Ap&A in <b>j</b> / A in <b>h</b>(in<b>j)</b> / A in <b>C</b> = <b>4</b></td>
-<td>A in <b>j</b>(Ap no modified.No A  in <b>h</b>(in<b>j</b>) & A in <b>C</b>)</b> = 1<b></td></tr>
+<td>Ap&A in <b>j</b> / A in <b>h</b>(in<b>j)</b> / A in <b>C</b> =<b>4</b></td>
+<td>A in <b>j</b>(Ap no modified.No A  in <b>h</b>(in<b>j</b>) & A in <b>C</b>)</b> =<b>1</b></td></tr>
 
 <tr><td>in <b>t</b>Dir(fld)</td>
-<td>Ap in <b>t</b> = <b>5</b>(files change&copy)</td>
+<td>Ap in <b>t</b> =<b>5</b>files change&copy</td>
 <td>(<b>4</b>files change&copy)</td>
 <td>(<b>1</b>files change&copy)</td></tr></table>
