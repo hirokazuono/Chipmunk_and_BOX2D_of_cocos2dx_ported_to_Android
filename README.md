@@ -13,7 +13,7 @@ to the Android Apps(applications) as  to work.
 <td><br>&nbsp;</td>
 <td><br>&nbsp;</td>
 <td><br>&nbsp;</td></tr>
-**NOTE : Ap = Application.mk , A = Android.mk , j = jni(Dir) , h =  helloworld(Dir) , C = Classes(Dir) , t = template(Dir)**
+* **NOTE : Ap = Application.mk , A = Android.mk , j = jni(Dir) , h =  helloworld(Dir) , C = Classes(Dir) , t = template(Dir)**
 </pre>
 
   
