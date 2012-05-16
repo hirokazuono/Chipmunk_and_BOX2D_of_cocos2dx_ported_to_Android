@@ -7,7 +7,7 @@ to the Android Apps(applications) as  to work.
 , HW = HelloWorld(Dir</b> topDir of this changing,not abobe helloworldDir.<b>)</b> , <b>t = template(Dir</b> without <b>HW</b>)
 </pre>
 <table><tr>
-<td><b>Ver</b>( right )<br><b>type</b>( below )</td><td>11</td><td>12</td><td>13beta</td></tr>
+<td><b>version</b>(right)<br><b>type</b> (below)</td><td>11</td><td>12</td><td>13beta</td></tr>
 <tr><td>BOX2D in <b>H</b><br>&nbsp; ( without <b>H</b> )</td>
 <td>Ap&A in <b>j</b> , A in <b>j</b> in <b>h</b> , A in <b>C</b>(4)<br></td>
 <td>Ap&A in <b>j</b> , A in <b>j</b> in <b>h</b> , A in <b>C</b>(4)<br></td>
