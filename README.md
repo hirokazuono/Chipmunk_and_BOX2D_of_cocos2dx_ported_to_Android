@@ -7,14 +7,13 @@ to the Android Apps(applications) as  to work.
 <tr><td>BOX2D(in **H**)<br>&nbsp;( witwout **H**)</td>
 <td>Ap&A in **j** / A in **j** in **h** / A in **C**(4)<br></td>
 <td>Ap&A in **j** / A in **j** in **h** / A in **C**(4)<br></td>
-<td>A in **j** (Ap no modified. No A in**j**in**h**&A in**C**.)<br></td></tr>
+<td>A in **j** (Ap no modified. No A in**j**in**h**&A in**C**)<br></td></tr>
 
 <tr><td>chipmunk(in **H**)<br>&nbsp;( witwout **H**)</td>
 <td><br>&nbsp;</td>
 <td><br>&nbsp;</td>
 <td><br>&nbsp;</td></tr></table>
-* **NOTE : Ap = Application.mk , A = Android.mk , j = jni(Dir) , h =  helloworld(Dir) , C = Classes(Dir) , t = template(Dir)
-  HW = HelloWorld(Dir.topDir of this changing,not abobe helloworldDir.)** Dir(fld) = Directory(or folder)
+
 </pre>
 
   
