@@ -13,14 +13,15 @@ to the Android Apps(applications) as  to work.
 <td>13beta</td></tr>
 <tr>
 <td rowspan=2>in <b>H</b>Dir(fld)
-<br>in <b>t</b>Dir(fld)</td>
+<hr>
+in <b>t</b>Dir(fld)</td>
 
 <td rowspan=2>Ap&A in <b>j</b> / A in <b>h</b>(in<b>j)</b> / A in <b>C</b>
 <br>Ap in <b>t</b> =<b>5</b>(files chge&copy)</td>
 
-<td>Ap&A in <b>j</b> / A in <b>h</b>(in<b>j)</b> / A in <b>C</b> =<b>4</b></td>
-<td>A in <b>j</b>(Ap no modified.No A in <b>h</b>(in<b>j</b>) & in <b>C</b>)</b> =<b>1</b></td></tr>
+<td rowspan=2>Ap&A in <b>j</b> / A in <b>h</b>(in<b>j)</b> / A in <b>C</b> =<b>4</b></td>
+<td rowspan=2>A in <b>j</b>(Ap no modified.No A in <b>h</b>(in<b>j</b>) & in <b>C</b>)</b> =<b>1</b></td></tr>
 
 <tr>
-<td></td>
-<td></td></tr></table>
+
+</tr></table>
