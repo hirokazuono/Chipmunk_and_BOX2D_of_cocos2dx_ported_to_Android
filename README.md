@@ -4,16 +4,16 @@ I ported **cocos2d-x**( or cocos2dx? that is one of the famous game libraries)**
 to the Android Apps(applications) as  to work.  
 <pre><b>NOTE : Ap = Application.mk , A = Android.mk</b>
 &nbsp; , Dir(fld) = Directory(or Folder) , <b>j = jni(Dir) , h =  helloworld(Dir) , C = Classes(Dir)
-, HW = HelloWorld(Dir</b> topDir of this changing,not abobe helloworldDir.<b>)</b> , <b>t = template(Dir</b> without <b>HW</b>)
+, H = HelloWorld(Dir</b> topDir of this changing,not abobe helloworldDir.<b>)</b> , <b>t = template(Dir</b> without <b>H</b>)
 </pre>
 <table><tr>
 <td><b>version</b>(right)<br><b>type</b> (below)</td><td>11</td><td>12</td><td>13beta</td></tr>
-<tr><td>BOX2D in <b>HW</b><br>( without <b>HW</b> )</td>
+<tr><td>BOX2D in <b>H</b><br>( without <b>H</b> )</td>
 <td>Ap&A in <b>j</b> , A in <b>j</b> in <b>h</b> , A in <b>C</b>(4)<br></td>
 <td>Ap&A in <b>j</b> , A in <b>j</b> in <b>h</b> , A in <b>C</b>(4)<br></td>
 <td>A in <b>j</b>(Ap no modified.No A in <b>j</b> in <b>h</b> & A in <b>C</b>)<br></td></tr>
 
-<tr><td>chipmunk in<b>HW</b><br>( without <b>HW</b> )</pre></td>
+<tr><td>chipmunk in<b>H</b><br>( without <b>H</b> )</pre></td>
 <td><br>&nbsp;</td>
 <td><br>&nbsp;</td>
 <td><br>&nbsp;</td></tr></table>
