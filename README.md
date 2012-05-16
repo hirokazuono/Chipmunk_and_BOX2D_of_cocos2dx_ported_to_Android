@@ -5,15 +5,15 @@ to the Android Apps(applications) as  to work.
  
 <table><tr><td>type( right )<br>ver( below )</td><td>11</td><td>12</td><td>13beta</td></tr>
 <tr><td>BOX2D(in HelloWorldDir(fld)<br>&nbsp;( witwout HelloWorld folder)</td>
-<td><br>Ap.mk&A.mk in jni(Dir) / A.mk in **j** in **h**</td>
-<td><br>&nbsp;</td>
+<td><br>Ap&A in **j** / A in **j** in **h** / A in **C**(4files)</td>
+<td><br>A in **j**(Ap need not be modified at all.No A in**j**in**h**&A in**C** from the beginning.)</td>
 <td><br>&nbsp;</td></tr>
 
 <tr><td>chipmunk(in HelloWorldDir(fld)<br>&nbsp;( witwout HelloWorld folder)</td>
 <td><br>&nbsp;</td>
 <td><br>&nbsp;</td>
 <td><br>&nbsp;</td></tr>
-**NOTE : Ap.mk = Application.mk , A.mk = Android.mk , j = jni(Dir) , h =  helloworld(Dir) , C = Classes(Dir) , t = template(Dir)**
+**NOTE : Ap = Application.mk , A = Android.mk , j = jni(Dir) , h =  helloworld(Dir) , C = Classes(Dir) , t = template(Dir)**
 </pre>
 
   
