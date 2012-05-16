@@ -12,7 +12,7 @@ to the Android Apps(applications) as  to work.
 <tr><td>in <b>H</b>Dir(fld)</td>
 <td>Ap&A in <b>j</b> / A in <b>h</b>(in<b>j)</b> / A in <b>C</b></td>
 <td>Ap&A in <b>j</b> / A in <b>h</b>(in<b>j)</b> / A in <b>C</b> =<b>4</b></td>
-<td>A in <b>j</b>(Ap no modified.No A in <b>h</b>(in<b>j</b>) &A in <b>C</b>)</b> =<b>1</b></td></tr>
+<td>A in <b>j</b>(Ap no modified.No A in <b>h</b>(in<b>j</b>) & in <b>C</b>)</b> =<b>1</b></td></tr>
 
 <tr><td>in <b>t</b>Dir(fld)</td>
 <td>Ap in <b>t</b> =<b>5</b>files change&copy</td>
