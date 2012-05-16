@@ -9,8 +9,8 @@ to the Android Apps(applications) as  to work.
 <table><tr>
 <td><b>version</b>(right)<br><b>type</b> (below)</td><td>11</td><td>12</td><td>13beta</td></tr>
 <tr><td><b>H</b>ofBOX2D<hr>&nbsp; (except <b>H</b>)</td>
-<td>Ap&A in <b>j</b> , A in <b>j</b> in <b>h</b> , A in <b>C</b>(4)&<b>C</b><hr></td>
-<td>Ap&A in <b>j</b> , A in <b>j</b> in <b>h</b> , A in <b>C</b>(4)<hr></td>
+<td>Ap&A in <b>j</b>, A in <b>j</b> in <b>h</b>, A in <b>C</b>(4)&<b>B</b><hr></td>
+<td>Ap&A in <b>j</b>, A in <b>j</b> in <b>h</b>, A in <b>C</b>(4)<hr></td>
 <td>A in <b>j</b>(Ap no modified.No A in <b>j</b> in <b>h</b> & A in <b>C</b>)<hr></td></tr>
 
 <tr><td><b>H</b>of chipmunk<hr>(except <b>H</b>)</pre></td>
