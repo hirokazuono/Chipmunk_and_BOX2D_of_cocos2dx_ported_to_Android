@@ -13,7 +13,7 @@ to the Android Apps(applications) as  to work.
 <td><br>&nbsp;</td>
 <td><br>&nbsp;</td>
 <td><br>&nbsp;</td></tr>
-<div style="color:red;font-size:1;">red</font>
+**NOTE : Ap.mk = Application.mk , A.mk = Android.mk**
 </pre>
 
   
