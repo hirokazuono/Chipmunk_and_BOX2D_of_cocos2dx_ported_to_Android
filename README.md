@@ -5,7 +5,8 @@ to the Android Apps(applications) as  to work.
  
 **  
 <pre>
-**type,ver** 11 12 13beta
+<b>type<br>
+ver</b> 11 12 13beta
 BOX2d 
  
 a
