@@ -27,7 +27,7 @@ to the Android Apps(applications) as  to work.
 &nbsp; that are downloads from cocos2d-x.org(&zip extracting).  
  ( Each xCode's cocos2d-x files(of 11,12,&13beta) create  
 &nbsp; &nbsp; by "./install-templates-xcode.sh **-uf** "  
-&nbsp; within each downloaded dir(fld,of 11,12,&13beta from cocos2d-x.org). )
+&nbsp; within each downloaded dir(fld,of 11,12,&13beta from cocos2d-x.org).in addition, their xCode files can be changed to other xCode files by "-uf" above,  any time soon & freely. )
 
   
 * The **C**lasses dir(fld) in **BOX2D** is copied 
