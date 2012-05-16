@@ -5,14 +5,7 @@ to the Android Apps(applications) as  to work.
  
 <table><tr><td>type( right )<br>ver( below )</td><td>11</td><td>12</td><td>13beta</td></tr>
 <tr><td>BOX2Din **H**<br>&nbsp; witwout **H**</td>
-<td>Ap&A in **j** / A in **j** in **h** / A in **C**(4)<br></td>
-<td>Ap&A in **j** / A in **j** in **h** / A in **C**(4)<br></td>
-<td>A in **j** (Ap no modified. No A in **j** in **h** &A in **C** )<br></td></tr>
-
-<tr><td>chipmunk(in **H**)<br>&nbsp;( witwout **H**)</td>
-<td><br>&nbsp;</td>
-<td><br>&nbsp;</td>
-<td><br>&nbsp;</td></tr></table>
+</tr></table>
 
 </pre>
 
