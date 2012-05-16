@@ -8,7 +8,7 @@ to the Android Apps(applications) as  to work.
 &nbsp; , <b>t = template(Dir</b>(fld). Other than(<b>Out of</b>) <b>H</b>elloWorld Dir(fld). <b>)</b>
 </pre>
 <table><tr>
-<td><b>version</b>(right)</td>
+<td><b>version</b>( → )</td>
 <td>11</td><td>12</td>
 <td>13beta</td></tr>
 <tr>
