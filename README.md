@@ -23,9 +23,6 @@ to the Android Apps(applications) as  to work.
 <td></td>
 </tr></table>
 ***
-<pre>
-1.At the 1st,Create **xCode's cocos2d-x files**
-&nbsp; , by **install-templates-xcode.sh**  in the 11or12or13beta's files that are downloads from cocos2d-x.org.
+1.At the 1st,Create **xCode's cocos2d-x files** by **install-templates-xcode.sh**  in the 11or12or13beta's files that are downloads from cocos2d-x.org.
 
-</pre>
 * The **C**lasses dir(fld) in **BOX2D** is copied 
