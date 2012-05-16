@@ -13,7 +13,7 @@ to the Android Apps(applications) as  to work.
 <td><br>&nbsp;</td>
 <td><br>&nbsp;</td>
 <td><br>&nbsp;</td></tr>
-<font color="red" size=1>red</font>
+<div style="color:red;font-size:1;">red</font>
 </pre>
 
   
