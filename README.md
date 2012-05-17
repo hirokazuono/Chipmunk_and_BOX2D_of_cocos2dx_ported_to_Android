@@ -34,7 +34,7 @@ that are downloads from cocos2d-x.org(&zip extracting).
 ( Each xCode's cocos2d-x files(of 11,12,&13beta) create by **"./install-templates-xcode.sh -uf "**  
 &nbsp;&nbsp;&nbsp; within each downloaded dir(fld,of 11,12,&13beta from cocos2d-x.org). In addition , not only these files  
 &nbsp;&nbsp;that are created, **xCode's working also will change** to behavior of the each version of the files created. However,  
-&nbsp;&nbsp;their **xCode types**(files&working) **can be changed to other xCode files** by **"-uf"**( above) , any time soon & freely. )
+&nbsp;&nbsp;&nbsp;their **xCode types**(files&working) **can be changed to other xCode files** by **"-uf"**( above) , any time soon & freely. )
   
 2. Change & Copy some of **"1.**&nbsp;(above &nbsp;, =(equal) the **chg**(change)**&copy list** at the beginning **)" .**  
 **Also the changed files from the original files of chg&copy list(**at the beginning**) downloads in "this page"**,  
