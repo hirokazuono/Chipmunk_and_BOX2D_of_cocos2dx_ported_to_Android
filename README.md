@@ -19,7 +19,7 @@ to the Android Apps(applications) as  to work.
 
 <tr>
 <td></td>
-<td colspan=3>&nbsp;( & <b>"Only ver11</b>(except 12 or 13b) Box2D's <b>Box2D" Dir</b>(above(outside of) <b>H</b> Dir)ectry are copied into <b>C</b> Dir(in <b>H</b> Dir)ectry. )</td>
+<td colspan=3>( & <b>"Only 11</b>(except 12 or 13b) Box2D's <b>Box2D" Dir</b>(above(outside of) <b>H</b> Dir)ectry are copied into <b>C</b> Dir(in <b>H</b> Dir)ectry. )</td>
 </tr>
 
 <tr>
