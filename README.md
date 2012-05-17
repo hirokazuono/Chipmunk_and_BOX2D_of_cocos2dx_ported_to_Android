@@ -37,6 +37,6 @@ that are downloads from cocos2d-x.org(&zip extracting).
 &nbsp;&nbsp;&nbsp;their **xCode types**(files&working) **can be changed to other xCode files** by **"-uf"**( above) , any time soon & freely. )
   
 2. Change & Copy some of **"1.**&nbsp;(above. &nbsp; &nbsp; =(equal) the **chg**(change)**&copy list** at the beginning **)" .**  
-**Also these "chg&copy list files** (of the changed files from the original files(exceptB2Ddir))**" downloads in "this page"** ,  
+**Also these "chg&copy list files** (of the changed files from the original files(exceptB2Ddir))**" download in "this page"**,  
 and **many changes of the files have been added annotation**(e.g."# ~ 1205xx xx:xx chg ~ ) **.**  
 moreover,the changes has been kept to a minimum changes as can.&nbsp;&nbsp; If you use them, **apps can be created soon** .
