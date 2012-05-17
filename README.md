@@ -24,7 +24,7 @@ to the Android Apps(applications) as  to work.
 
 <tr>
 <td>into<b>&nbsp;t</b> Dir</td>
-<td>Ap in <b>t</b> =<b>5(files</b>(&<b>11 B2D</b>'s<b>1dir</b>)<b>)</b></td>
+<td>Ap in <b>t</b> =<b>5(</b>(&<b>11B2D</b>'s<b>1dir</b>above)<b>)</b></td>
 <td></td>
 <td></td>
 </tr></table>
