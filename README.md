@@ -39,5 +39,5 @@ that are downloads from cocos2d-x.org(&zip extracting).
 2. Change & copy some of **"1.**&nbsp;(above. &nbsp; =(equal) the **chg**(change)**&copy list** at the beginning**)" .** It should be noted that  
 **these "chg&copy list files** (of the changed files from the original files(exceptB2Ddir))**" download in "this page"**,  
 moreover,**the changes has been kept to a minimum changes as can.**&nbsp;  
-(and many changes of the files have been **added annotation**(e.g."# ~ 1205xx xx:xx chg ~ ) **.**)  If you use them,  
+(and many changes of the files have been **added annotation**(e.g."# ~ 1205xx xx:xx chg ~ )**.** )&nbsp; &nbsp; &nbsp; If you use them,  
 **apps can be created soon** .
