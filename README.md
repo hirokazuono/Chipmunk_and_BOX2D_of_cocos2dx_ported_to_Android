@@ -19,7 +19,7 @@ to the Android Apps(applications) as  to work.
 
 <tr>
 <td></td>
-<td colspan=3>&nbsp;( & <b>B2D</b> above(outside of(<b>H)</b>Dir  copies into <b>C</b in <b>only ver11</b> except ver12 or 13b.)</td>
+<td colspan=3>&nbsp;( & <b>Only ver11</b>(except ver12 or 13b)'s <b>B2D</b> above(outside of) <b>H</b>Dir copies into <b>C</b>.)</td>
 </tr>
 
 <tr>
