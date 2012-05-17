@@ -26,8 +26,8 @@ to the Android Apps(applications) as  to work.
 1. At the 1st,Create **xCode's cocos2d-x files** by **install-templates-xcode.sh** in a dir(fld) of 11 or 12 or 13beta's files  
 that are downloads from cocos2d-x.org(&zip extracting).  
 ( Each xCode's cocos2d-x files(of 11,12,&13beta) create by **"./install-templates-xcode.sh -uf "**  
-&nbsp; &nbsp; within each downloaded dir(fld,of 11,12,&13beta from cocos2d-x.org). In addition , not only these files  
-&nbsp;&nbsp;that are created, **xCode's working also will change** to behavior of the each version of the files created.  
-&nbsp;&nbsp; &nbsp; However, their **xCode types**(files&working) **can be changed to other xCode files** by **"-uf"**( above),  any time soon & freely. )
+&nbsp; within each downloaded dir(fld,of 11,12,&13beta from cocos2d-x.org). In addition , not only these files  
+&nbsp;that are created, **xCode's working also will change** to behavior of the each version of the files created.  
+&nbsp; &nbsp; However, their **xCode types**(files&working) **can be changed to other xCode files** by **"-uf"**( above),  any time soon & freely. )
   
 2. Some files of * The **C**lasses dir(fld) in **BOX2D** is copied 
