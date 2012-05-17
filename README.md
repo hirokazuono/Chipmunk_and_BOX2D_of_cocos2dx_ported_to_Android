@@ -24,7 +24,7 @@ to the Android Apps(applications) as  to work.
 
 <tr>
 <td>into<b>&nbsp;t</b> Dir</td>
-<td>Ap in <b>t</b> , =<b>5</b>(files (&1dir) )</td>
+<td>Ap in <b>t</b> , =<b>5</b>(files(&1dir asB2Donly))</td>
 <td></td>
 <td></td>
 </tr></table>
