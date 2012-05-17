@@ -28,7 +28,7 @@ to the Android Apps(applications) as  to work.
  ( Each xCode's cocos2d-x files(of 11,12,&13beta) create by **"./install-templates-xcode.sh -uf "**  
 &nbsp; &nbsp; within each downloaded dir(fld,of 11,12,&13beta from cocos2d-x.org). In addition , not only these files  
 &nbsp;that are created, **xCode's working also will change** to behavior of the each version of the files created.  
-&nbsp;&nbsp;&nbsp;However, their **xCode types**(files&working) **can be changed to other xCode files** by **"-uf"**( above),  any time soon & freely. )
+&nbsp; &nbsp; However, their **xCode types**(files&working) **can be changed to other xCode files** by **"-uf"**( above),  any time soon & freely. )
 
   
 * The **C**lasses dir(fld) in **BOX2D** is copied 
