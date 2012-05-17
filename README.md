@@ -19,7 +19,7 @@ to the Android Apps(applications) as  to work.
 
 <tr>
 <td></td>
-<td colspan=3>&nbsp;( & <b>B2D</b> above(outside of(<b>H)</b>Dir  copies into <b>C</b? in only ver11 except ver12 or 13b.)</td>
+<td colspan=3>&nbsp;( & <b>B2D</b> above(outside of(<b>H)</b>Dir  copies into <b>C</b in <b>only ver11</b> except ver12 or 13b.)</td>
 </tr>
 
 <tr>
@@ -34,7 +34,7 @@ that are downloads from cocos2d-x.org(&zip extracting).
 ( Each xCode's cocos2d-x files(of 11,12,&13beta) create by **"./install-templates-xcode.sh -uf "**  
 &nbsp;&nbsp;&nbsp; within each downloaded dir(fld,of 11,12,&13beta from cocos2d-x.org). In addition , not only these files  
 &nbsp;&nbsp;that are created, **xCode's working also will change** to behavior of the each version of the files created.  
-&nbsp;&nbsp; &nbsp; However, their **xCode types**(files&working) **can be changed to other xCode files** by **"-uf"**( above),  any time soon & freely. )
+&nbsp;&nbsp; &nbsp; However, their **xCode types**(files&working) **can be changed to other xCode files** by **"-uf"**( above),  any time soon & freely.)
   
 2. Some files of **1**(above , equal the files of the **chg&copy files list** of 1st) **change(=chg) & copy**(as same as that **chg&copy list**).
   
