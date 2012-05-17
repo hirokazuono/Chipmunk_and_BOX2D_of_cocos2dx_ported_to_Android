@@ -30,4 +30,5 @@ that are downloads from cocos2d-x.org(&zip extracting).
 &nbsp;&nbsp;that are created, **xCode's working also will change** to behavior of the each version of the files created.  
 &nbsp;&nbsp; &nbsp; However, their **xCode types**(files&working) **can be changed to other xCode files** by **"-uf"**( above),  any time soon & freely. )
   
-2. Some files of * The **C**lasses dir(fld) in **BOX2D** is copied 
+2. Some files of **1.**(abobe)*, equal abobe the files of the **chg&copy files list** are change(=chg) &copy **"as the list"**.
+The **C**lasses dir(fld) in **BOX2D** is copied 
