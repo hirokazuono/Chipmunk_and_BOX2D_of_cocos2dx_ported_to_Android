@@ -24,7 +24,7 @@ to the Android Apps(applications) as  to work.
 
 <tr>
 <td>into<b>&nbsp;t</b> Dir</td>
-<td>Ap in <b>t</b> =<b>5(</b>&11B2D's<b>1dir above)</b></td>
+<td>Ap in <b>t</b> =<b>5(</b>&11B2D's <b>1dir)</b></td>
 <td></td>
 <td></td>
 </tr></table>
@@ -36,6 +36,6 @@ that are downloads from cocos2d-x.org(&zip extracting).
 &nbsp;&nbsp;that are created, **xCode's working also will change** to behavior of the each version of the files created.  
 &nbsp;&nbsp; &nbsp; However, their **xCode types**(files&working) **can be changed to other xCode files** by **"-uf"**( above),  any time soon & freely.)
   
-2. Some of **"1.** above( ,equal the **chg**(=change)**&copy list**  at the beginning)**" are changed & copied**(as same as that **chg&copy list**).
+2. Some of **"1.** above( , = the **chg**(change)**&copy list**  at the beginning)**" are changed & copied**(as same as that **chg&copy list**).
   
 The **C**lasses dir(fld) in **BOX2D** is copied 
