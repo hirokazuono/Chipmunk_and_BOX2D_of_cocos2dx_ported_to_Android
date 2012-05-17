@@ -4,7 +4,7 @@ I ported **cocos2d-x**( or cocos2dx? that is one of the famous game libraries)**
 to the Android Apps(applications) as  to work.  
 <pre><b>NOTE : Ap = Application.mk , A = Android.mk</b>
 &nbsp; , Dir(fld) = Directory(or Folder) , <b>j = jni(Dir) , h =  helloworld(Dir) , C = Classes(Dir)
-, H = HelloWorld(Dir</b>(fld). TopDir of this changing , not "helloworld(Dir)" abobe. <b>)</b>
+, H = HelloWorld(Dir</b>(fld). TopDir of this changing , not "helloworld(Dir)" above. <b>)</b>
 &nbsp; , <b>t = template(Dir</b>(fld). Other than(<b>Out of</b>) <b>H</b>elloWorld Dir(fld). <b>)</b>
 </pre>
 <table><tr>
@@ -19,7 +19,7 @@ to the Android Apps(applications) as  to work.
 
 <tr>
 <td></td>
-<td colspan=3>&nbsp;( & <b>B2D</b>Dir abobe(out of) <b>H</b> into <b>C</b>(in <b>H</b>), only ver 11.<b>12or13b doesn't.)</td>
+<td colspan=3>&nbsp;( & <b>B2D</b> above(outside of(<b>H)</b>Dir  copies into <b>C</b? in only ver11 except ver12 or 13b.)</td>
 </tr>
 
 <tr>
@@ -36,6 +36,6 @@ that are downloads from cocos2d-x.org(&zip extracting).
 &nbsp;&nbsp;that are created, **xCode's working also will change** to behavior of the each version of the files created.  
 &nbsp;&nbsp; &nbsp; However, their **xCode types**(files&working) **can be changed to other xCode files** by **"-uf"**( above),  any time soon & freely. )
   
-2. Some files of **1**(abobe , equal the files of the **chg&copy files list** of 1st) **change(=chg) & copy**(as same as that **chg&copy list** ).
+2. Some files of **1**(above , equal the files of the **chg&copy files list** of 1st) **change(=chg) & copy**(as same as that **chg&copy list**).
   
 The **C**lasses dir(fld) in **BOX2D** is copied 
