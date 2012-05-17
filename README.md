@@ -38,5 +38,5 @@ that are downloads from cocos2d-x.org(&zip extracting).
   
 2. Change & Copy some of **"1.**&nbsp;(above &nbsp;, =(equal) the **chg**(change)**&copy list** at the beginning **)" .**  
 **Also the changed files from the original files of chg&copy list(**at the beginning**) downloads in "this page"**,  
-and **many changes of the files have been added annotation**(e.g."# ~ 1205xx xx:xx chg ~ ) **.**  
-If you use them, applications can be created soon.
+and **many changes of the files have been added annotation**(e.g."# ~ 1205xx xx:xx chg ~ ) **.** moreover,  
+the changes has been kept to a minimum changes as can.&nbsp;&nbsp; If you use them, applications can be created soon.
