@@ -12,7 +12,7 @@ to the Android Apps(applications) as  to work.
 <td>11</td><td>12</td>
 <td>13beta</td></tr>
 <tr>
-<td>into<b>H</b>dir(fld)</td>
+<td>into<b>H </b>Dir(fld)</td>
 <td>Ap&A in <b>j</b> / A in <b>h</b>(in<b>j)</b> / A in <b>C</b></td>
 <td>Ap&A in <b>j</b> / A in <b>h</b>(in<b>j)</b> / A in <b>C</b> =<b>4</b></td>
 <td>A in <b>j</b>(Ap no modified.No A in <b>h</b>(in<b>j</b>) & in <b>C</b>)</b> =<b>1</b></td></tr>
@@ -24,7 +24,7 @@ to the Android Apps(applications) as  to work.
 </tr>
 
 <tr>
-<td>into<b>&nbsp;t</b>dir(fld)</td>
+<td>into<b> &nbsp;t</b>Dir(fld)</td>
 <td>Ap in <b>t</b> , =<b>5</b>(files chge&copy.)</td>
 <td></td>
 <td></td>
