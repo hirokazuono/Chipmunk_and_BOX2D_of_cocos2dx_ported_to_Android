@@ -19,12 +19,12 @@ to the Android Apps(applications) as  to work.
 
 <tr>
 <td></td>
-<td colspan=3>&nbsp;( & <b>"↑Only ver11</b>(except ver12 or 13b)'s <b>B2D"</b> above(outside of) <b>H</b> Dir copies into <b>C</b>. )</td>
+<td colspan=3>&nbsp;( & <b>"↑Only ver11</b>(except ver12 or 13b)'s <b>B2D"</b>(above(outside of) <b>H</b> Dir) copies into <b>C</b>(in <b>H</b>). )</td>
 </tr>
 
 <tr>
 <td>into<b>&nbsp;t</b> Dir</td>
-<td>Ap in <b>t</b> , =<b>5</b>(files chge&copy.)</td>
+<td>Ap in <b>t</b> , =<b>5</b>(files (&1dir) )</td>
 <td></td>
 <td></td>
 </tr></table>
