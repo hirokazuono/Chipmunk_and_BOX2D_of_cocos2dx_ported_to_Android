@@ -19,7 +19,7 @@ to the Android Apps(applications) as  to work.
 
 <tr>
 <td></td>
-<td colspan=3>(& <b>"Only 11</b>(except 12or13b) Box2D's <b>Box2D" Dir</b>(above(<b>outside of</b>) <b>H</b>Dir)ectry are copied into <b>C</b>Dir(in <b>H</b>Dir). )</td>
+<td colspan=3>(& <b>"Only 11</b>(except 12or13b) Box2D's <b>Box2D" Dir</b>(above(<b>outside of</b>) <b>H</b>Dir)ectry are copied into <b>C</b>(in <b>H</b>)Directry. )</td>
 </tr>
 
 <tr>
@@ -36,6 +36,6 @@ that are downloads from cocos2d-x.org(&zip extracting).
 &nbsp;&nbsp;that are created, **xCode's working also will change** to behavior of the each version of the files created.  
 &nbsp;&nbsp; &nbsp; However, their **xCode types**(files&working) **can be changed to other xCode files** by **"-uf"**( above),  any time soon & freely.)
   
-2. Some of **"1.** above( , = the **chg**(change)**&copy list**  at the beginning)**" are changed & copied**(as same as that **chg&copy list**).
+2. Some of **"1.**&nbsp;(above &nbsp;, = the **chg**(change)**&copy list**  at the beginning)**" are changed & copied**(as same as that **chg&copy list**)**.**
   
 The **C**lasses dir(fld) in **BOX2D** is copied 
