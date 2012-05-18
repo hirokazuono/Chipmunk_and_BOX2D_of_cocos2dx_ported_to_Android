@@ -50,11 +50,11 @@ as follows. &nbsp;&nbsp; &nbsp; ( **the way are bold.** &nbsp;&nbsp; &nbsp; / &n
 <pre>
 <b>After "1." of the above(i.e.after creating xCode's files of versions & types that you want to create),
 please also create android's cocos2d-x files of versions and types that you want to create
-by create-android-project.sh.</b>
-Incidentally, I think no need particularly for descriptions about modifing
-<b>"NDK_ROOT_LOCAL" and "ANDROID_SDK_ROOT_LOCAL"</b> at the beginning of this "create-android-project.sh" file
-because many descriptions already exist in various other places.
-&nbsp; i.e. 
+by create-android-project.sh.</b> Incidentally, I think no need particularly for descriptions
+about modifing <b>"NDK_ROOT_LOCAL" and "ANDROID_SDK_ROOT_LOCAL"</b> at the beginning of
+this "create-android-project.sh" because many descriptions already exist in various other places.
+i.e. <b>NDK_ROOT_LOCAL="/home/laschweinski/android/android-ndk-r5"( → "/opr/android-ndk-rxx" )</b>
+or <b>ANDROID_SDK_ROOT_LOCAL="/home/laschweinski/android/android-sdk-linux_86"( → "/Applications/android-sdk" )</b> etc.
 
 and copy "Resources" Dir in 
 </b>
