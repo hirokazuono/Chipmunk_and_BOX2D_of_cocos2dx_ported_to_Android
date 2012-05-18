@@ -36,7 +36,8 @@ that are downloads from cocos2d-x.org(&zip extracting).
 &nbsp;&nbsp;that are created, **xCode's working also will change** to behavior of the each version of the files created. However,  
 &nbsp;&nbsp;&nbsp;their **xCode types**(files&working) **can be changed to other xCode files** by **"-uf"**( above) , any time soon & freely. )  
 And also you should create each files of chipmunk or Box2D that you want to create,  
-but only enough to use the files "2." as follows downloaded in "this page".(**This reason of enough is explained by 3 below.**)
+but only enough to use the files "2." as follows downloaded in "this page".  
+(**This reason of enough is explained by 3 below ,** as e.g. **difference of each cocos2d-x files**. )
 2. Change & copy some of **"1.**&nbsp;(above. &nbsp; =(equal) the **chg**(change)**&copy list** at the beginning**)" .** It should be noted that  
 **these "chg&copy list files** (of the changed files from the original files(exceptB2Ddir))**" download in "this page"**.  
 If you use them , **apps can be created soon and quickly**. &nbsp;&nbsp;Moreover , **the changes are minimum changes  
@@ -45,7 +46,7 @@ I believe very safe that "anyone **can be easy to understand the changes** , not
 (For this reason,**Box2D**Dir(B2Ddir)**doesn't  download in "this page". save xCode's files of 1.**above **&copy** into position.)  
 3. **The way of these porting and Description of**  
 **the minimum changes(& difference of each cocos2d-x files** of versions and types(chipmunk&B2D and android&xCode)**)**  
-as follows. &nbsp;&nbsp; &nbsp; (**the way are bold.** &nbsp;&nbsp; &nbsp; / &nbsp; &nbsp;&nbsp; description of difference aren't not bold. )
+as follows. &nbsp;&nbsp; &nbsp; ( **the way are bold.** &nbsp;&nbsp; &nbsp; / &nbsp; &nbsp;&nbsp; description of difference aren't not bold. )
 <pre>
 <b>After "1." of the above(i.e.after creating xCode's files of versions & types that you want to create),
 please also create android's cocos2d-x files of versions and types that you want to create
