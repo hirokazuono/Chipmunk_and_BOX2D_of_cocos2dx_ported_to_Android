@@ -37,7 +37,7 @@ that are downloads from cocos2d-x.org(&zip extracting).
 &nbsp;&nbsp;&nbsp;their **xCode types**(files&working) **can be changed to other xCode files** by **"-uf"**( above) , any time soon & freely. )  
 And also you should create each files of chipmunk or Box2D that you want to create,  
 but only enough to use the files "2." as follows downloaded in "this page".  
-(**This reason of enough is explained by 3 below ,** as e.g. **difference of each cocos2d-x files**. )
+( **This reason of enough is explained by 3 below ,** as e.g. "difference of each cocos2d-x files". )
 2. Change & copy some of **"1.**&nbsp;(above. &nbsp; =(equal) the **chg**(change)**&copy list** at the beginning**)" .** It should be noted that  
 **these "chg&copy list files** (of the changed files from the original files(exceptB2Ddir))**" download in "this page"**.  
 If you use them , **apps can be created soon and quickly**. &nbsp;&nbsp;Moreover , **the changes are minimum changes  
@@ -50,8 +50,9 @@ as follows. &nbsp;&nbsp; &nbsp; ( **the way are bold.** &nbsp;&nbsp; &nbsp; / &n
 <pre>
 <b>After "1." of the above(i.e.after creating xCode's files of versions & types that you want to create),
 please also create android's cocos2d-x files of versions and types that you want to create
-by create-android-project.sh.
-and copy 
+by create-android-project.sh.</b> Incidentally, "NDK_ROOT_LOCAL" and "ANDROID_SDK_ROOT_LOCAL" in this create-android-project.sh
+
+and copy "Resources" Dir in 
 </b>
 
 </pre>
