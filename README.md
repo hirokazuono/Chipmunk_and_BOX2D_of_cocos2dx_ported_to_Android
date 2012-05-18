@@ -44,7 +44,7 @@ I believe very safe that "anyone **can be easy to understand the changes** , not
 (For this reason,**Box2D**Dir(B2Ddir)**doesn't  download in "this page". save xCode's files of 1.**above **&copy** into position.)  
 3. **The way of these porting and Description of**  
 **the minimum changes(& difference of each cocos2d-x files** of versions and types(chipmunk&B2D and android&xCode)**)**  
-as follows. (**the way are bold.** description of difference aren't not bold. )
+as follows. (**the way are bold.** &nbsp;&nbsp; &nbsp; / &nbsp; &nbsp;&nbsp; description of difference aren't not bold. )
 <pre>
 (test)
 </pre>
