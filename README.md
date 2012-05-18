@@ -46,7 +46,7 @@ I believe very safe that "anyone **can be easy to understand the changes** , not
 (For this reason,**Box2D**Dir(B2Ddir)**doesn't  download in "this page". save xCode's files of 1.**above **&copy** into position.)  
 3. **The way of these porting and Description of**  
 **the minimum changes(& difference of each cocos2d-x files** of versions and types(chipmunk&B2D and android&xCode) **)**  
-as follows. &nbsp;&nbsp; &nbsp; ( &nbsp; **the way of these porting are bold.** &nbsp;&nbsp; &nbsp; / &nbsp; &nbsp;&nbsp; description of difference aren't not bold. )
+as follows. &nbsp;&nbsp; &nbsp; ( &nbsp; **the way of these porting are bold.** &nbsp;&nbsp; &nbsp; / &nbsp; &nbsp;&nbsp; description of difference aren't not bold. &nbsp; )
 <pre>
 <b>After "1." of the above(i.e.after creating xCode's files of versions & types that you want to create),
 please also create android's cocos2d-x files of versions and types that you want to create
@@ -54,7 +54,7 @@ by create-android-project.sh.</b> Incidentally, I think no need particularly for
 about modifing <b>"NDK_ROOT_LOCAL" and "ANDROID_SDK_ROOT_LOCAL"</b> at the beginning of
 this "create-android-project.sh" because many descriptions already exist in various other places.
 i.e. <b>NDK_ROOT_LOCAL="/home/laschweinski/android/android-ndk-r5"( → "/opr/android-ndk-rxx" )</b>
-<b>ANDROID_SDK_ROOT_LOCAL="/home/laschweinski/android/android-sdk-linux_86"(→"/Applications/android-sdk" )</b>
+<b>ANDROID_SDK_ROOT_LOCAL="/home/laschweinski/android/android-sdk-linux_86"(→"/Applications/android-sdk")</b>
 
 and copy "Resources" Dir in 
 </b>
