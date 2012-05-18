@@ -37,7 +37,8 @@ that are downloads from cocos2d-x.org(&zip extracting).
 &nbsp;&nbsp;&nbsp;their **xCode types**(files&working) **can be changed to other xCode files** by **"-uf"**( above) , any time soon & freely. )
   
 2. Change & copy some of **"1.**&nbsp;(above. &nbsp; =(equal) the **chg**(change)**&copy list** at the beginning**)" .** It should be noted that  
-**these "chg&copy list files** (of the changed files from the original files(exceptB2Ddir))**" download in "this page"**,  
+**these "chg&copy list files** (of the changed files from the original files(exceptB2Ddir))**" download in "this page"**.  
 If you use them , **apps can be created soon and quickly**. &nbsp;&nbsp;Moreover , **the changes are a minimum changes  
-as can (** and many changes of the fileshave been **added annotation**(e.g."# ~ 1205xx xx:xx chg ~ ). **) ,**&nbsp; because  
-I believe very safe that "anyone **can be easy to understand the changes** , not only can create apps soon & quickly ".
+as can (** and many changes of the fileshave been **added annotation**(e.g."# ~ 1205xx xx:xx chg ~ ). **) . **&nbsp; Because  
+I believe very safe that "anyone **can be easy to understand the changes** , not only can create apps soon & quickly ".  
+(For this reason, **Box2D Dir**(B2Ddir) **doesn't  download in "this page"**. please **save & copy xCode's cocos2d-x files of "1.**above. )
