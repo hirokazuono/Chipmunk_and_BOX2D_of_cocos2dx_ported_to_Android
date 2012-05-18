@@ -40,4 +40,4 @@ that are downloads from cocos2d-x.org(&zip extracting).
 **these "chg&copy list files** (of the changed files from the original files(exceptB2Ddir))**" download in "this page"**,  
 If you use them , **apps can be created soon and quickly**. &nbsp;&nbsp;Moreover , **the changes are a minimum changes as  
 can (** and many changes of the fileshave been **added annotation**(e.g."# ~ 1205xx xx:xx chg ~ ). **) ,**&nbsp; because  
-I believe very safe that "anyone **can be easy to understand the changes** , not only can create apps soon & quickly " .
+I believe very safe that "anyone **can be easy to understand the changes** , not only can create apps soon & quickly ".
