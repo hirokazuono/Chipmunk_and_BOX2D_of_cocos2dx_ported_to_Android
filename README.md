@@ -1,4 +1,4 @@
-Chipmunk-of-cocos2dx_ported_to_Android-Apps_as_to_work.
+Chipmunk_and_Box2D_of_cocos2dx_ported_to_Android-Apps_as_to_work.
 =============================
 I ported **cocos2d-x**( or cocos2dx? that is one of the famous game libraries)**'s "chipmunk" & "BOX2D"**  
 to the Android Apps(applications) as  to work.  
@@ -41,4 +41,5 @@ that are downloads from cocos2d-x.org(&zip extracting).
 If you use them , **apps can be created soon and quickly**. &nbsp;&nbsp;Moreover , **the changes are a minimum changes  
 as can (** and many changes of the fileshave been **added annotation**(e.g."# ~ 1205xx xx:xx chg ~ ). **) . **&nbsp; Because  
 I believe very safe that "anyone **can be easy to understand the changes** , not only can create apps soon & quickly ".  
-(For this reason,**Box2D**Dir(B2Ddir)**doesn't  download in "this page". save xCode's files of 1.**above **&copy** into position.)
+(For this reason,**Box2D**Dir(B2Ddir)**doesn't  download in "this page". save xCode's files of 1.**above **&copy** into position.)  
+3. 
