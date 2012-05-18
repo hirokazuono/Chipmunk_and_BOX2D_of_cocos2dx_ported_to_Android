@@ -46,6 +46,10 @@ I believe very safe that "anyone **can be easy to understand the changes** , not
 **the minimum changes(& difference of each cocos2d-x files** of versions and types(chipmunk&B2D and android&xCode)**)**  
 as follows. (**the way are bold.** &nbsp;&nbsp; &nbsp; / &nbsp; &nbsp;&nbsp; description of difference aren't not bold. )
 <pre>
-<b>After  "1." of the above,(i.e. after creating xCode's files of versions and types as you like,)
-,also create android's cocos2d-x files as versions and types as you like <u>by create-android-project.sh</u>.</b>
+<b>After  "1." of the above(i.e. after creating xCode's files of versions and types as you like),
+please also create android's cocos2d-x files of versions and types as you like
+by create-android-project.sh.
+and copy 
+</b>
+
 </pre>
