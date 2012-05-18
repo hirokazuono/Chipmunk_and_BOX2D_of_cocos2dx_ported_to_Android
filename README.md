@@ -35,7 +35,8 @@ that are downloads from cocos2d-x.org(&zip extracting).
 &nbsp;&nbsp;&nbsp;within each downloaded dir(fld,of 11,12,&13beta from cocos2d-x.org). &nbsp;&nbsp; In addition , not only these files  
 &nbsp;&nbsp;that are created, **xCode's working also will change** to behavior of the each version of the files created. However,  
 &nbsp;&nbsp;&nbsp;their **xCode types**(files&working) **can be changed to other xCode files** by **"-uf"**( above) , any time soon & freely. )  
-And also you should create each files of chipmunk or Box2D that you want to create, but enough to use the files "2." as follows of "this page".
+And also you should create each files of chipmunk or Box2D that you want to create,  
+but only enough to use the files "2." as follows downloaded in "this page".(**This reason of enough is explained by 3 below.**)
 2. Change & copy some of **"1.**&nbsp;(above. &nbsp; =(equal) the **chg**(change)**&copy list** at the beginning**)" .** It should be noted that  
 **these "chg&copy list files** (of the changed files from the original files(exceptB2Ddir))**" download in "this page"**.  
 If you use them , **apps can be created soon and quickly**. &nbsp;&nbsp;Moreover , **the changes are minimum changes  
