@@ -38,8 +38,8 @@ that are downloads from cocos2d-x.org(&zip extracting).
   
 2. Change & copy some of **"1.**&nbsp;(above. &nbsp; =(equal) the **chg**(change)**&copy list** at the beginning**)" .** It should be noted that  
 **these "chg&copy list files** (of the changed files from the original files(exceptB2Ddir))**" download in "this page"**.  
-If you use them , **apps can be created soon and quickly**. &nbsp;&nbsp;Moreover , **the changes are a minimum changes  
+If you use them , **apps can be created soon and quickly**. &nbsp;&nbsp;Moreover , **the changes are minimum changes  
 as can (** and many changes of the fileshave been **added annotation**(e.g."# ~ 1205xx xx:xx chg ~ ). **) .** &nbsp; Because  
 I believe very safe that "anyone **can be easy to understand the changes** , not only can create apps soon & quickly ".  
 (For this reason,**Box2D**Dir(B2Ddir)**doesn't  download in "this page". save xCode's files of 1.**above **&copy** into position.)  
-3. 
+3. The minimum changes (and difference of each cocos2d-x files of versions and types(chipmunk&B2D and android&xCode)) as follows. 
