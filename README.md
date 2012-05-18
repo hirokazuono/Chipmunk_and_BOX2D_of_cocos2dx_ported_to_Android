@@ -54,7 +54,7 @@ by create-android-project.sh.</b> Incidentally, I think no need particularly for
 about modifing <b>"NDK_ROOT_LOCAL" and "ANDROID_SDK_ROOT_LOCAL"</b> at the beginning of
 this "create-android-project.sh" because many descriptions already exist in various other places.
 i.e. <b>NDK_ROOT_LOCAL="/home/laschweinski/android/android-ndk-r5"( → "/opr/android-ndk-rxx" )</b>
-or <b>ANDROID_SDK_ROOT_LOCAL="/home/laschweinski/android/android-sdk-linux_86"( → "/Applications/android-sdk" )</b> etc.
+<b>ANDROID_SDK_ROOT_LOCAL="/home/laschweinski/android/android-sdk-linux_86"(→"/Applications/android-sdk" )</b>.
 
 and copy "Resources" Dir in 
 </b>
