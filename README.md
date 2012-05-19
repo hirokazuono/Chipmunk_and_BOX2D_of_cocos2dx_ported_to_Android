@@ -58,13 +58,13 @@ please also create android's cocos2d-x files of versions and types that you want
 by create-android-project.sh.</b> Incidentally, I think no need particularly for descriptions
 about <b>modifing "NDK_ROOT_LOCAL" and "ANDROID_SDK_ROOT_LOCAL"</b> at the beginning of
 this "create-android-project.sh" because many descriptions already exist in various other places.
-Such as <b>NDK_ROOT_LOCAL="/home/laschweinski/android/android-ndk-r5"( → "/opr/android-ndk-rxx" )</b>
+Such as <b>NDK_ROOT_LOCAL="/home/laschweinski/android/android-ndk-r5"( → "/opr/android-ndk-r(6,7etc)")</b>
 <b>ANDROID_SDK_ROOT_LOCAL="/home/xxxxx/android/android-sdk-linux_86"(→"/Applications/android-sdk")</b>
 <hr>
 <b>(B</b>(=2.)<b>) Please copy the files that are on the "chg&copy list" as of the list.</b>
 By the way, In version 11,12,and 13beta which are created by "create-android.sh",
 11 includes a "Resourace" directory but it's "(ending in s and) Resources" in 12 and 13b.
-(As a result, "A in <b>C</b>"<b>( =</b> Android.mk in <b>C(</b>(lasses in H(lloWorld)<b>Dir</b>(ectry)<b>)</b> <b>)</b> of 11
+(As a result, "A in <b>C</b>"<b>( =</b> Android.mk in <b>C(</b>(lasses in H(lloWorld))<b>Dir</b>(ectry)<b>)</b> <b>)</b> of 11
 &nbsp;  are only differd , among the "mk.files". )
 However, the contents in each Directories are almost the same
 &nbsp;except that " 12 and 13 don't exist the icon.png but exist the font Dir,
