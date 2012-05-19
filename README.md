@@ -30,9 +30,9 @@ to the Android Apps(applications) as  to work.
 </tr></table>
 ***
 1. At the 1st,Create **xCode's cocos2d-x files** by **install-templates-xcode.sh** in a dir(fld) of 11 or 12 or 13beta  
-that is one of created directorys of **"the downloaded from cocos2d-x.org and extracted zip file(s)** .  
+that is one of directorys maked by **"the downloaded from cocos2d-x.org and extracted zip file(s)** .  
 ( Each xCode's cocos2d-x files(of 11,12,&13beta) create by **"./install-templates-xcode.sh -uf "**  
-&nbsp;&nbsp;&nbsp;within each downloaded dir(fld,of 11,12,&13beta from cocos2d-x.org). &nbsp;&nbsp; In addition , not only these files  
+&nbsp;&nbsp;&nbsp;within each dir(fld,of 11,12,&13beta from cocos2d-x.org) as above. &nbsp;&nbsp; In addition , not only these files  
 &nbsp;&nbsp;that are created, **xCode's working also will change** to behavior of the each version of the files created. However,  
 &nbsp;&nbsp;&nbsp;their **xCode types**(files&working) **can be changed to other xCode files** by **"-uf"**( above) , any time soon & freely. )  
 And also you should create each files of chipmunk or Box2D  
@@ -48,13 +48,13 @@ I believe very safe that "anyone **can be easy to understand the changes** , not
 **the minimum changes(& difference of each cocos2d-x files** of versions and types(chipmunk&B2D and android&xCode) **)**  
 as follows. &nbsp;&nbsp; &nbsp; ( &nbsp; **the way of these porting are bold.** &nbsp;&nbsp; &nbsp; / &nbsp; &nbsp;&nbsp; description of difference aren't not bold. &nbsp; )
 <pre>
-<b>After "1."</b> as above<b>(i.e. after creating xCode's files of versions & types that you want to create),
+<b>After "1."</b>as above<b>(i.e. after creating xCode's files of versions and types that you want to create),
 please also create android's cocos2d-x files of versions and types that you want to create
 by create-android-project.sh.</b> Incidentally, I think no need particularly for descriptions
 about <b>modifing "NDK_ROOT_LOCAL" and "ANDROID_SDK_ROOT_LOCAL"</b> at the beginning of
 this "create-android-project.sh" because many descriptions already exist in various other places.
 Such as <b>NDK_ROOT_LOCAL="/home/laschweinski/android/android-ndk-r5"( → "/opr/android-ndk-rxx" )</b>
-<b>ANDROID_SDK_ROOT_LOCAL="/home/laschweinski/android/android-sdk-linux_86"(→"/Applications/android-sdk")</b>
+<b>ANDROID_SDK_ROOT_LOCAL="/home/xxxxx/android/android-sdk-linux_86"(→"/Applications/android-sdk")</b>
 
 and copy "Resources" Dir in 
 </b>
