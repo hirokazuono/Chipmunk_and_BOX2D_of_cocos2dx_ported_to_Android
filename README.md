@@ -67,10 +67,10 @@ By the way, In version 11,12,and 13beta which are created by "create-android.sh"
 &nbsp; "A in <b>C</b>"(=Android.mk in <b>C(</b>(lasses in <b>H</b>(lloWorld)<b>Dir</b>(ectry)<b>)</b> of 11 are only differd.)
 However, the contents in each Directories are almost the same
 except that " 12 and 13 don't exist the icon.png but exist the font Dir,
-&nbsp; on the contrary, only 11 don't exists the font Dir but exist icon.png ".
+&nbsp; &nbsp; on the contrary, only 11 don't exists the font Dir but exist icon.png ".
+
 So You just only needto copy the contents in the "Resource(s)" Dir
-to the
-"Resource(s)<b>Dir</b>(ectry) in <b>C</b>"(=Android.mk in <b>C(</b>(lasses in <b>H</b>(lloWorld)<b>Dir</b>(ectry)<b>)</b>
+to the "Resource(s)<b>Dir</b>(ectry) in <b>C</b>"(=Android.mk in <b>C(</b>(lasses in <b>H</b>(lloWorld)<b>Dir</b>(ectry)<b>)</b>
 that you want create.
  
 </b>
