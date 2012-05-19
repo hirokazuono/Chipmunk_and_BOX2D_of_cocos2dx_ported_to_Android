@@ -65,9 +65,9 @@ Such as <b>NDK_ROOT_LOCAL="/home/laschweinski/android/android-ndk-r5"( → "/opr
 By the way, In version 11,12,and 13beta which are created by "create-android.sh",
 11 includesa directory Resourace but it's "(ending in s and) Resources" in 12 and 13b.
 (As a result ,among the "mk.files",
-&nbsp; "A in <b>C</b>"(=Android.mk in <b>C(</b>(lasses in H/b>(lloWorld)<b>Dir</b>(ectry)<b>)</b> of 11 are only differd.)
+&nbsp; "A in <b>C</b>"(=Android.mk in <b>C(</b>(lasses in H(lloWorld)<b>Dir</b>(ectry)<b>)</b> of 11 are only differd.)
 However, the contents in each Directories are almost the same
 except that " 12 and 13 don't exist the icon.png but exist the font Dir,
 &nbsp; &nbsp; on the contrary, only 11 don't exists the font Dir but exist icon.png ".
 So You just only needto copy the contents in the "Resource(s)" Dir
-to the "Resource(s)<b>Dir</b>(ectry) in <b>C</b>(lasses in H(lloWorld)<b>Dir</b>(ectry)<b>)</b>" that you want create.</pre>
+to the "Resource(s)<b>Dir(</b>ectry) in <b>C</b>(lasses in H(lloWorld)<b>Dir</b>(ectry)<b>)</b>" that you want create.</pre>
