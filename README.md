@@ -35,9 +35,9 @@ that are downloads from cocos2d-x.org(&zip extracting).
 &nbsp;&nbsp;&nbsp;within each downloaded dir(fld,of 11,12,&13beta from cocos2d-x.org). &nbsp;&nbsp; In addition , not only these files  
 &nbsp;&nbsp;that are created, **xCode's working also will change** to behavior of the each version of the files created. However,  
 &nbsp;&nbsp;&nbsp;their **xCode types**(files&working) **can be changed to other xCode files** by **"-uf"**( above) , any time soon & freely. )  
-And also you should create each files of chipmunk or Box2D that you want to create,  
-but only enough to use the files "2." as follows downloaded in "this page".  
-( **This reason of enough is described in 3 below ,** as e.g. "difference of each cocos2d-x files". )
+And also you should create each files of chipmunk or Box2D  
+that you want to create, but only enough to use the files "2." as follows downloaded in "this page".  
+**( This reason of enough is described in 3 below.**(i.e. "difference of each cocos2d-x files".) **)**
 2. Change & copy some of **"1.**&nbsp;(above. &nbsp; =(equal) the **chg**(change)**&copy list** at the beginning**)" .** It should be noted that  
 **these "chg&copy list files** (of the changed files from the original files(exceptB2Ddir))**" download in "this page"**.  
 If you use them , **apps can be created soon and quickly**. &nbsp;&nbsp;Moreover , **the changes are minimum changes  
@@ -48,12 +48,12 @@ I believe very safe that "anyone **can be easy to understand the changes** , not
 **the minimum changes(& difference of each cocos2d-x files** of versions and types(chipmunk&B2D and android&xCode) **)**  
 as follows. &nbsp;&nbsp; &nbsp; ( &nbsp; **the way of these porting are bold.** &nbsp;&nbsp; &nbsp; / &nbsp; &nbsp;&nbsp; description of difference aren't not bold. &nbsp; )
 <pre>
-<b>After "1." of the above(i.e. after creating xCode's files of versions & types that you want to create),
+<b>After "1." of the above(i.e. after creating xCode's files of versions&types that you want to create),
 please also create android's cocos2d-x files of versions and types that you want to create
 by create-android-project.sh.</b> Incidentally, I think no need particularly for descriptions
 about modifing <b>"NDK_ROOT_LOCAL" and "ANDROID_SDK_ROOT_LOCAL"</b> at the beginning of
 this "create-android-project.sh" because many descriptions already exist in various other places.
-i.e. <b>NDK_ROOT_LOCAL="/home/laschweinski/android/android-ndk-r5"( → "/opr/android-ndk-rxx" )</b>
+Such as <b>NDK_ROOT_LOCAL="/home/laschweinski/android/android-ndk-r5"( → "/opr/android-ndk-rxx" )</b>
 <b>ANDROID_SDK_ROOT_LOCAL="/home/laschweinski/android/android-sdk-linux_86"(→"/Applications/android-sdk")</b>
 
 and copy "Resources" Dir in 
