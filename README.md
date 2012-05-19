@@ -63,7 +63,7 @@ Such as <b>NDK_ROOT_LOCAL="/home/laschweinski/android/android-ndk-r5"( → "/opr
 <hr>
 <b>(B</b>(=2.)<b>) Please copy the files that are on the "chg&copy list" as of the list.</b>
 By the way, In version 11,12,and 13beta which are created by "create-android.sh",
-11 includesa directory Resourace but it's "(ending in s and) Resources" in 12 and 13b.
+11 includes a "Resourace" directory but it's "(ending in s and) Resources" in 12 and 13b.
 (As a result ,among the "mk.files",
 &nbsp; "A in <b>C</b>"(=Android.mk in <b>C(</b>(lasses in H(lloWorld)<b>Dir</b>(ectry)<b>)</b> of 11 are only differd.)
 However, the contents in each Directories are almost the same
