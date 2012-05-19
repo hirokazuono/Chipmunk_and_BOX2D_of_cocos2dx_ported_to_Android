@@ -60,14 +60,14 @@ about <b>modifing "NDK_ROOT_LOCAL" and "ANDROID_SDK_ROOT_LOCAL"</b> at the begin
 this "create-android-project.sh" because many descriptions already exist in various other places.
 Such as <b>NDK_ROOT_LOCAL="/home/laschweinski/android/android-ndk-r5"( → "/opr/android-ndk-rxx" )</b>
 <b>ANDROID_SDK_ROOT_LOCAL="/home/xxxxx/android/android-sdk-linux_86"(→"/Applications/android-sdk")</b>
-<b>(B</b>(=2.)<b>) Please copy the files that are on the "chg&copy list" as of the list.</b>
 <hr>
+<b>(B</b>(=2.)<b>) Please copy the files that are on the "chg&copy list" as of the list.</b>
 By the way, In version 11,12,and 13beta which are created by "create-android.sh",
 11 includesa directory Resourace but it's "(ending in s and) Resources" in 12 and 13b.
-(As a result ,in the "mk.files",
-&nbsp; "A in <b>C</b>"(=Android.mk in <b>C(</b>(lasses in <b>H</b>(lloWorld)<b>Dir</b>(ectry)<b>)</b> of 11 are only differd.)
+(As a result ,among the "mk.files",
+&nbsp; "A in <b>C</b>"(=Android.mk in <b>C(</b>(lasses in H/b>(lloWorld)<b>Dir</b>(ectry)<b>)</b> of 11 are only differd.)
 However, the contents in each Directories are almost the same
 except that " 12 and 13 don't exist the icon.png but exist the font Dir,
 &nbsp; &nbsp; on the contrary, only 11 don't exists the font Dir but exist icon.png ".
 So You just only needto copy the contents in the "Resource(s)" Dir
-to the "Resource(s)<b>Dir</b>(ectry) in <b>C</b>(lasses in <b>H</b>(lloWorld)<b>Dir</b>(ectry)<b>)</b> that you want create.</pre>
+to the "Resource(s)<b>Dir</b>(ectry) in <b>C</b>(lasses in H(lloWorld)<b>Dir</b>(ectry)<b>)</b>" that you want create.</pre>
