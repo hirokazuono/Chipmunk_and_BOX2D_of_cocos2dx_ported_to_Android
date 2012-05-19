@@ -24,15 +24,15 @@ to the Android Apps(applications) as  to work.
 
 <tr>
 <td>into<b>&nbsp;t</b> Dir</td>
-<td>Ap in <b>t</b> =<b>5(</b>&11B2D's <b>1dir)</b></td>
+<td>Ap in <b>t</b> =<b>5(</b>&11B2D's <b>1 Dir)</b></td>
 <td></td>
 <td></td>
 </tr></table>
 ***
-1. At the 1st,Create **xCode's cocos2d-x files** by **install-templates-xcode.sh** in a dir(fld) of 11 or 12 or 13beta  
-that is one of directorys maked by **"the downloaded from cocos2d-x.org and extracted zip file(s)** .  
+1. At the 1st,Create **xCode's cocos2d-x files** by **install-templates-xcode.sh** in a Dir(fld) of 11 or 12 or 13beta  
+that is one of Dirs(flds) maked by **"the downloaded from cocos2d-x.org and extracted zip file(s)** .  
 ( Each xCode's cocos2d-x files(of 11,12,&13beta) create by **"./install-templates-xcode.sh -uf "**  
-&nbsp;&nbsp;&nbsp;within each dir(fld,of 11,12,&13beta from cocos2d-x.org) as above. &nbsp;&nbsp; In addition , not only these files  
+&nbsp;&nbsp;&nbsp;within each Dir(fld,of 11,12,&13beta from cocos2d-x.org) as above. &nbsp;&nbsp; In addition , not only these files  
 &nbsp;&nbsp;that are created, **xCode's working also will change** to behavior of the each version of the files created. However,  
 &nbsp;&nbsp;&nbsp;their **xCode types**(files&working) **can be changed to other xCode files** by **"-uf"**( above) , any time soon & freely. )  
 And also you should create each files of chipmunk or Box2D  
