@@ -70,4 +70,4 @@ However, the contents in each Directories are almost the same
 &nbsp;except that " 12 and 13 don't exist the icon.png but exist the font Dir,
 &nbsp; &nbsp; on the contrary, only 11 don't exists the font Dir but exist icon.png ".
 &nbsp;So You just only needto copy the contents in the "Resource(s)" Dir
-to the "Resource(s)<b>Dir(</b>ectry) in <b>C</b>(lasses in H(lloWorld)<b>Dir</b>(ectry)<b>)</b>" that you want create.</pre>
+to the "Resource(s)<b>Dir</b>(ectry) in <b>C(</b>(lasses in H(lloWorld))<b>Dir</b>(ectry)<b>)</b>" that you want create.</pre>
