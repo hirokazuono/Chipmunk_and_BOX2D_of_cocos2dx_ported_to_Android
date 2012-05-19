@@ -60,9 +60,10 @@ about <b>modifing "NDK_ROOT_LOCAL" and "ANDROID_SDK_ROOT_LOCAL"</b> at the begin
 this "create-android-project.sh" because many descriptions already exist in various other places.
 Such as <b>NDK_ROOT_LOCAL="/home/laschweinski/android/android-ndk-r5"( → "/opr/android-ndk-rxx" )</b>
 <b>ANDROID_SDK_ROOT_LOCAL="/home/xxxxx/android/android-sdk-linux_86"(→"/Applications/android-sdk")</b>
-(B</b>(=2.)<b>) Copy 
-
-and copy "Resources" Dir in 
+(B</b>(=2.)<b>) Please copy the files that are on the <b>"chg&copy list"</b> as of the list. 
+By the way,HWc&h = HelloWorldScene.cpp and HelloWorldScene.h
+http://omaena.com
+And furthermore,prease copy "Resources" Dir in 
 </b>
 
 </pre>
