@@ -60,7 +60,6 @@ about <b>modifing "NDK_ROOT_LOCAL" and "ANDROID_SDK_ROOT_LOCAL"</b> at the begin
 this "create-android-project.sh" because many descriptions already exist in various other places.
 Such as <b>NDK_ROOT_LOCAL="/home/laschweinski/android/android-ndk-r5"( → "/opr/android-ndk-rxx" )</b>
 <b>ANDROID_SDK_ROOT_LOCAL="/home/xxxxx/android/android-sdk-linux_86"(→"/Applications/android-sdk")</b>
-
 <b>(B</b>(=2.)<b>) Please copy the files that are on the "chg&copy list" as of the list.</b> 
 By the way, In version 11,12,and 13beta which are created by "create-android.sh",
 11 includesa directory Resourace but it's "(ending in s and) Resources" in 12 and 13b.
