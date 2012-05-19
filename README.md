@@ -43,16 +43,16 @@ And also you should create each files of chipmunk or Box2D
 that you want to create, but only enough to use the files "2." as follows downloaded in "this page".  
 **( This reason of enough is described in 3 below .** ( i.e. "difference of each cocos2d-x files". ) &nbsp;**)**
 2. Change & copy some of **"1.**&nbsp;(above. &nbsp; =(equal) the **chg**(change)**&copy list** at the beginning**)" .** It should be noted that  
-**these "chg&copy list files** (of the changed files from the original files(exceptB2Ddir))**" download in "this page"**.  
+**these "chg&copy list files** (of the changed files from the original files(exceptB2Ddir))**" are downloaded in "this page"**.  
 If you use them , **apps can be created soon and quickly**. &nbsp;&nbsp;Moreover , **the changes are minimum changes  
 as can (** and many changes of the files have been **added annotation**(e.g."# ~ 1205xx xx:xx chg ~ ). **) .** &nbsp; Because  
 I believe very safe that "anyone **can be easy to understand the changes** , not only can create apps soon & quickly ".  
-(For this reason,**Box2D**Dir(B2Ddir)**doesn't  download in "this page". save xCode's files of 1.**above **&copy** into position.)  
+(For this reason,**Box2D**Dir(B2Ddir)**aren't  be download in "this page". save xCode's files of 1.**above **&copy** into position.)  
 3. **The way of these porting and Description of**  
 **the minimum changes(& difference of each cocos2d-x files** of versions and types(chipmunk&B2D and android&xCode) **)**  
 as follows. &nbsp;&nbsp; &nbsp; ( &nbsp; **the way of these porting are bold.** &nbsp;&nbsp; &nbsp; / &nbsp; &nbsp;&nbsp; description of difference aren't not bold. &nbsp; )
 <pre>
-<b>(A) After "1."</b>as above
+<b>(A</b>(=1.)<b>) After "1."</b>as above
 <b>(i.e. after creating xCode's files of versions and types that you want to create),
 please also create android's cocos2d-x files of versions and types that you want to create
 by create-android-project.sh.</b> Incidentally, I think no need particularly for descriptions
@@ -60,7 +60,7 @@ about <b>modifing "NDK_ROOT_LOCAL" and "ANDROID_SDK_ROOT_LOCAL"</b> at the begin
 this "create-android-project.sh" because many descriptions already exist in various other places.
 Such as <b>NDK_ROOT_LOCAL="/home/laschweinski/android/android-ndk-r5"( → "/opr/android-ndk-rxx" )</b>
 <b>ANDROID_SDK_ROOT_LOCAL="/home/xxxxx/android/android-sdk-linux_86"(→"/Applications/android-sdk")</b>
-(B) Copy 
+(B</b>(=2.)<b>) Copy 
 
 and copy "Resources" Dir in 
 </b>
