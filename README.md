@@ -15,8 +15,8 @@ Dir(fld) = Directory(or Folder) , <b>j = jni(Dir) , h =  helloworld(Dir) , C = C
 <tr>
 <td rowspan=3>into<b>H</b> Dir</td>
 <td>HWc&h in <b>C</b>(in <b>H</b>)<b>Dir</b>(=2)</td>
-<td>HWc&h in <b>C</b>(in <b>H</b>)<b>Dir(=2)</b></td>
-<td>HWc&h in <b>C</b>(in <b>H</b>)<b>Dir</b>(=2)&nbsp;&nbsp; (All versions are "HWc&h in C".)</b></td></tr>
+<td>HWc&h in <b>C</b>(in <b>H</b>)<b>Dir</b>(=2)</td>
+<td>HWc&h in <b>C</b>(in <b>H</b>)<b>Dir</b>(=2&nbsp;,<b>All versions are "HWc&h in C"</b>.)</td></tr>
 
 <td>Ap&A in <b>j</b> / A in <b>h</b>(in<b>j)</b> / A in <b>C</b></td>
 <td>Ap&A in <b>j</b> / A in <b>h</b>(in<b>j)</b> / A in <b>C</b> =<b>4</b></td>
