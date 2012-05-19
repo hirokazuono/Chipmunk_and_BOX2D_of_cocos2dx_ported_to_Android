@@ -2,16 +2,22 @@ Chipmunk_and_Box2D_of_cocos2dx_ported_to_Android-Apps_as_to_work.
 =============================
 I ported **cocos2d-x**( or cocos2dx? that is one of the famous game libraries)**'s "chipmunk" & "BOX2D"**  
 to the Android Apps(applications) as  to work.  
-<pre><b>NOTE : Ap = Application.mk , A = Android.mk</b>
-&nbsp; , Dir(fld) = Directory(or Folder) , <b>j = jni(Dir) , h =  helloworld(Dir) , C = Classes(Dir)
-, H = HelloWorld(Dir</b>(fld). TopDir of this changing , not "helloworld(Dir)" above. <b>)</b>
-&nbsp; , <b>t = template(Dir</b>(fld). Other than(<b>Out of</b>) <b>H</b>elloWorld Dir(fld). <b>)</b>
+<pre><b>NOTE : HWc&h = HelloWorldScene.cpp and HelloWorldScene.h</b> ( are "C++(cpp & h) files". )
+&nbsp; b>, Ap = Application.mk , A = Android.mk</b>  ( are "mk files". )
+ , Dir(fld) = Directory(or Folder) , <b>j = jni(Dir) , h =  helloworld(Dir) , C = Classes(Dir)
+&nbsp; , H = HelloWorld(Dir</b>(fld). TopDir of this changing , not "helloworld(Dir)" above. <b>)</b>
+, <b>t = template(Dir</b>(fld). Other than(<b>Out of</b>) <b>H</b>elloWorld Dir(fld). <b>)</b> (are Dir(fld)s.)
 </pre>
 <table><tr>
 <td><b>version</b> →</td>
 <td>11</td><td>12</td>
 <td>13beta</td></tr>
 <tr>
+<td>into<b>H</b> Dir</td>
+<td>Ap&A in <b>j</b> / A in <b>h</b>(in<b>j)</b> / A in <b>C</b></td>
+<td>Ap&A in <b>j</b> / A in <b>h</b>(in<b>j)</b> / A in <b>C</b> =<b>4</b></td>
+<td>A in <b>j</b>(Ap no modified.No A in <b>h</b>(in<b>j</b>) & in <b>C</b>)</b> =<b>1</b></td></tr>
+
 <td>into<b>H</b> Dir</td>
 <td>Ap&A in <b>j</b> / A in <b>h</b>(in<b>j)</b> / A in <b>C</b></td>
 <td>Ap&A in <b>j</b> / A in <b>h</b>(in<b>j)</b> / A in <b>C</b> =<b>4</b></td>
@@ -48,13 +54,15 @@ I believe very safe that "anyone **can be easy to understand the changes** , not
 **the minimum changes(& difference of each cocos2d-x files** of versions and types(chipmunk&B2D and android&xCode) **)**  
 as follows. &nbsp;&nbsp; &nbsp; ( &nbsp; **the way of these porting are bold.** &nbsp;&nbsp; &nbsp; / &nbsp; &nbsp;&nbsp; description of difference aren't not bold. &nbsp; )
 <pre>
-<b>After "1."</b>as above<b>(i.e. after creating xCode's files of versions and types that you want to create),
+<b>(A) After "1."</b>as above
+<b>(i.e. after creating xCode's files of versions and types that you want to create),
 please also create android's cocos2d-x files of versions and types that you want to create
 by create-android-project.sh.</b> Incidentally, I think no need particularly for descriptions
 about <b>modifing "NDK_ROOT_LOCAL" and "ANDROID_SDK_ROOT_LOCAL"</b> at the beginning of
 this "create-android-project.sh" because many descriptions already exist in various other places.
 Such as <b>NDK_ROOT_LOCAL="/home/laschweinski/android/android-ndk-r5"( → "/opr/android-ndk-rxx" )</b>
 <b>ANDROID_SDK_ROOT_LOCAL="/home/xxxxx/android/android-sdk-linux_86"(→"/Applications/android-sdk")</b>
+(B) Copy 
 
 and copy "Resources" Dir in 
 </b>
