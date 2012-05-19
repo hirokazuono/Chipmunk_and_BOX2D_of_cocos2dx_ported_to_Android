@@ -19,7 +19,7 @@ to the Android Apps(applications) as  to work.
 
 <tr>
 <td></td>
-<td colspan=3>(& <b>"Only 11</b>(except 12or13b) Box2D's <b>Box2D" Dir</b>(above(<b>outside of</b>) <b>H</b>Dir)ectry are copied into <b>C</b>(in <b>H</b>)<b>Dir</b>ectry. )</td>
+<td colspan=3>(& <b>"Only 11</b>(except 12or13b) Box2D's <b>Box2D" Dir</b>(<b>(on the outside of H)Dir</b>)ectry are copied into <b>C</b>(in <b>H</b>)<b>Dir</b>ectry. )</td>
 </tr>
 
 <tr>
@@ -48,7 +48,7 @@ I believe very safe that "anyone **can be easy to understand the changes** , not
 **the minimum changes(& difference of each cocos2d-x files** of versions and types(chipmunk&B2D and android&xCode) **)**  
 as follows. &nbsp;&nbsp; &nbsp; ( &nbsp; **the way of these porting are bold.** &nbsp;&nbsp; &nbsp; / &nbsp; &nbsp;&nbsp; description of difference aren't not bold. &nbsp; )
 <pre>
-<b>After "1." of the above(i.e. after creating xCode's files of versions&types that you want to create),
+<b>After "1." as above(i.e. after creating xCode's files of versions & types that you want to create),
 please also create android's cocos2d-x files of versions and types that you want to create
 by create-android-project.sh.</b> Incidentally, I think no need particularly for descriptions
 about modifing <b>"NDK_ROOT_LOCAL" and "ANDROID_SDK_ROOT_LOCAL"</b> at the beginning of
