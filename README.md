@@ -34,7 +34,7 @@ to the Android Apps(applications) as  to work.
 </tr></table>
 ***
 1. At the 1st,Create **xCode's cocos2d-x files** by **install-templates-xcode.sh** in a Dir(fld) of 11 or 12 or 13beta  
-that is one of Dirs(flds) maked by **"the downloaded from cocos2d-x.org and extracted zip file(s)** .  
+that is one of Dirs(flds) maked by **" the downloaded from cocos2d-x.org and extracted zip file(s) "** .  
 ( Each xCode's cocos2d-x files(of 11,12,&13beta) create by **"./install-templates-xcode.sh -uf "**  
 &nbsp;&nbsp;&nbsp;within each Dir(fld,of 11,12,&13beta from cocos2d-x.org) as above. &nbsp;&nbsp; In addition , not only these files  
 &nbsp;&nbsp;that are created, **xCode's working also will change** to behavior of the each version of the files created. However,  
@@ -62,7 +62,7 @@ Such as <b>NDK_ROOT_LOCAL="/home/laschweinski/android/android-ndk-r5"( → "/xxx
 <b>ANDROID_SDK_ROOT_LOCAL="/home/xxxxx/android/android-sdk-linux_86"( → "/Applications/android-sdk")</b>
 <hr>
 <b>(B</b>(=2.)<b>) Please copy the files that are on the "chg&copy list" as of the list.</b>
-By the way, In version 11,12,and 13beta which are created by "create-android.sh",
+By the way, In All versions(as 11,12,and 13beta) which are created by "create-android.sh",
 11 includes a "Resourace" directory but it's "(ending in s and) Resources" in 12 and 13b.
 (As a result, "A in <b>C</b>"<b>( =</b> Android.mk in <b>C(</b>(lasses in H(lloWorld))<b>Dir</b>(ectry)<b>)</b> <b>)</b> of 11
 &nbsp;  are only differd , among the "mk.files". )
