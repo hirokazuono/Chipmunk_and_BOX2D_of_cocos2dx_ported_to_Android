@@ -67,10 +67,9 @@ in the "mk.files",
 "A in <b>C</b>"( = Android.mk in <b>C</b>lasses( in <b>H</b>lloWorld)<b>Dir</b>(ectry) ) of 11 are only differd. )
 However, the contents in each Directories are almost the sameexcept that
 " 12 and 13 don't exist the icon.png but exist the font Dir,
-&nbsp; on the contrary, only 11 don't exists  the font Dir but exist icon.png ". So You just only need to copy
-the contents in the "Resource(s)" Dir to the
-"Resource(s) <b>Dir</b>(ectry) in <b>C</b>"( =Android.mk in <b>C</b>lasses(in <b>H</b>lloWorld)<b>Dir</b>(ectry) )
-that you want create.
+&nbsp; on the contrary, only 11 don't exists  the font Dir but exist icon.png ". So You just only need
+to copy the contents in the "Resource(s)" Dir to the
+"Resource(s) <b>Dir</b>(ectry) in <b>C</b>"( =Android.mk in <b>C</b>lasses(in <b>H</b>lloWorld)<b>Dir</b>(ectry) ) that you want create.
  
 </b>
 
