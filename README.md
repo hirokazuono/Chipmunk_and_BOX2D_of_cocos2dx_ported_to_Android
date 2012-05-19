@@ -24,7 +24,7 @@ to the Android Apps(applications) as  to work.
 
 <tr>
 <td>into<b>&nbsp;t</b> Dir</td>
-<td>Ap in <b>t</b> =<b>5(</b>&11B2D's <b>1 Dir)</b></td>
+<td>Ap in <b>t</b> =<b>5(&1 Dir</b> of v11 B2D<b>)</b></td>
 <td></td>
 <td></td>
 </tr></table>
