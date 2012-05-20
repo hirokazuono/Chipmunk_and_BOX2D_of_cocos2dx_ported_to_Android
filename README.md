@@ -95,8 +95,8 @@ I think you create the completed App as above.</b>
 <pre>
 <hr>
 <b>(C'</b>(C2)<b> = a supplementary explanation.
-&nbsp; &nbsp; as not same as
-&nbsp; " the way of these porting are bold.</b> &nbsp; / &nbsp; description of difference aren't not bold. <b>"&nbsp; above. )</b>
+&nbsp; as not same as
+&nbsp; &nbsp; " the way of these porting are bold.</b> &nbsp; / &nbsp; description of difference aren't not bold. <b>"&nbsp; above. )</b>
 <hr>
 <b>If your created App remains named "Hello World",
 You need to move to the inside of "android Dir" in "H</b>(HelloWorld)<b>Dir" </b>such as <b>(C)</b> above
