@@ -79,9 +79,9 @@ each person please <b>save xCode's files</b> of 1. above <b>and copy into positi
 ( Besides, also as an aside,
 &nbsp; &nbsp; HelloWorldScene.cpp( among the HWc&h( = HelloWorldScene.cpp and HelloWorldScene.h) )
 &nbsp; are used in each cocos2d-x files of versions and types( = chipmunk & B2D and android& x Code ) .
-All of them already have been fixed for all type and version. but HelloWorldScene.cpp for each types
-&nbsp; &nbsp;( = chipmunk or B2D ) are not changed at all and used in exactly the same content
-&nbsp; except that 11 and 12 are "CCPoint point = touch->locationInView(touch->view());"
-&nbsp; &nbsp; but only newest 13beta is without "touch->view()" as "CCPoint point = touch->locationInView();".
+&nbsp; &nbsp; All of them already have been fixed for all type and version. but HelloWorldScene.cpp
+&nbsp; for each types( = chipmunk or B2D ) are not changed at all and used in exactly the same content
+&nbsp; &nbsp; except that 11 and 12 are "CCPoint point = touch->locationInView(touch->view());"
+&nbsp; but only newest 13beta is without "touch->view()" as "CCPoint point = touch->locationInView();".
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; http://omaena.com/diff_cocos2dxVer11-13b.txt&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; )
 </pre>
