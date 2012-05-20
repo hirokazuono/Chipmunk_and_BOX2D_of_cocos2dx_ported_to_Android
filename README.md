@@ -73,7 +73,7 @@ That's why all you need to do is <b>copy the contents in the "Resource(s)" Dir</
 &nbsp;<b>to the "Resource(s)" Dir</b>(ectry) <b>in C(</b>(lasses in H(lloWorld))<b>Dir</b>(ectry)<b>)</b> that you want create.
 ( As an aside,
 &nbsp; not only the files described in the above list,
-&nbsp; &nbsp; you can be downloaded <b>"several types of image files (for B2D)"</b> in this page.
-&nbsp; these <b>can be chenged that you modify HelloWorldScene.h(</b>of <b>HWc&h</b> files<b>) any time quickly & freely.</b>
+&nbsp; &nbsp; you can be downloaded <b>"several types of image files (for B2D)"</b> in this page .
+&nbsp;These <b>can be chenged as you modify HelloWorldScene.h(</b>of <b>HWc&h</b> files<b>) any time quickly & freely.</b>)
 
 </pre>
