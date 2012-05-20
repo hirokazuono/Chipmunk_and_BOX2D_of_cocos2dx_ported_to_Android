@@ -38,7 +38,7 @@ that is one of Dirs(flds) maked by **" the downloaded from cocos2d-x.org and ext
 **(** Each xCode's cocos2d-x files(of 11,12,&13beta) create by **"./install-templates-xcode.sh -uf "**  
 &nbsp;&nbsp;&nbsp;within each Dir(fld,of 11,12,&13beta from cocos2d-x.org) as above. &nbsp;&nbsp; In addition , not only these files  
 &nbsp;&nbsp;that are created, **xCode's working also will change** to behavior of the each version of the files created. However,  
-&nbsp;&nbsp;&nbsp;their **xCode types**(files&working) **can be changed to other xCode files** by **"-uf**( above)**"**, **any time quickly & freely. &nbsp;)**  
+&nbsp;&nbsp;&nbsp;their **xCode types**(files&working) **can be changed to other xCode files** by **"-uf**( above)**"**, **any time quickly & freely. )**  
 And also you may have to use each files of chipmunk or Box2D  
 that you want to create, but only enough to use the files "2." as follows downloaded in "this page".  
 **( This reason of enough is** also mentioned in next **2.** as follows:i.e. " **B2D** files of no change **aren't be downloaded** ". **)**
