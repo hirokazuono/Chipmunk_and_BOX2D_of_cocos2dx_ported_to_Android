@@ -5,7 +5,7 @@ to the Android Apps(applications) as  to work.
 <pre><b>NOTE : HWc&h = HelloWorldScene.cpp and HelloWorldScene.h</b> ( are "C++(cpp & h) files". )
 <b>, Ap = Application.mk , A = Android.mk</b>  ( are "mk files". )
 <b>Dir(fld)</b> = Directory(or Folder) , <b>j = jni(Dir) , h =  helloworld(Dir) , C = Classes(Dir)
-, H = HelloWorld(Dir</b>(fld). TopDir of this changing , not "helloworld(Dir)" above. <b>)</b>
+, H = HelloWorld(Dir</b>(fld). TopDir of this changing&creating , not "helloworld(Dir)" above. <b>)</b>
 , <b>t = template(Dir</b>(fld). Other than(<b>Out of</b>) <b>H</b>elloWorld Dir(fld). <b>)</b> &nbsp;&nbsp; &nbsp; <b>/ &nbsp;&nbsp; B2D = Box2D</b>(Dirs or files)
 </pre>
 <table><tr>
@@ -58,8 +58,9 @@ please also create android's cocos2d-x files of versions and types that you want
 by create-android-project.sh.</b> Incidentally, I think no need particularly for descriptions
 about <b>modifing "NDK_ROOT_LOCAL" and "ANDROID_SDK_ROOT_LOCAL"</b> at the beginning of
 this "create-android-project.sh" because many descriptions already exist in various other places.
-Such as <b>NDK_ROOT_LOCAL="/home/laschweinski/android/android-ndk-r5"( → "/xxx/android-ndk-r(6,7etc)")</b>
-<b>ANDROID_SDK_ROOT_LOCAL="/home/xxxxx/android/android-sdk-linux_86"( → "/Applications/android-sdk")</b>
+Such as <b>NDK_ROOT_LOCAL="/home/laschweinski/android/android-ndk-r5"( → "/xxx/android-ndk-r(6,7etc)")
+ANDROID_SDK_ROOT_LOCAL="/home/xxxxx/android/android-sdk-linux_86"( → "/Applications/android-sdk")
+and "the created files of the name that you want to create are used (C) below.</b>
 <hr>
 <b>(B</b>(=2.)<b>) Please copy the files that are on the "chg&copy list" as of the list.</b>
 By the way, In All versions(as 11,12,and 13beta) which are created by "create-android.sh",
@@ -84,4 +85,22 @@ each person please <b>save xCode's files</b> of 1. above <b>and copy into positi
 &nbsp; &nbsp; except that 11 and 12 are "CCPoint point = touch->locationInView(touch->view());"
 &nbsp; but only newest 13beta is without "touch->view()" as "CCPoint point = touch->locationInView();".
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; http://omaena.com/diff_cocos2dxVer11-13b.txt&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; )
+<hr>
+<b>(C) After (A) and (B) , 
+prease move to the inside of "android Dir" in "a Dir the name that you want to create</b><b>"
+in "android's cocos2d-x Dir</b>( that you want to create)<b>" and compile using "./build_native.sh".
+I think you create the completed App as above.</b>
+<hr>
+<b>(C'<.b>(C2)<b>) If your created App remains named "Hello World",
+You need to move to the inside of "android Dir" in "H</b>(HelloWorld)<b>Dir" </b>such as <b>(C)</b> above
+<b>and modify "NDK_ROOT_LOCAL" and "COCOS2DX_ROOT_LOCAL"
+at the beginning of "build_native.sh" in this "android Dir".
+such as <b>NDK_ROOT_LOCAL=/cygdrive/d/programe/android/ndk/android-ndk-r6b( → /xxx/android-ndk-r(6,7etc))
+COCOS2DX_ROOT_LOCAL="/home/xxxxx/android/android-sdk-linux_86"( → (the pass of android's cocos2d-x) &nbsp;)
+and compile using this build_native.sh as "./build_native.sh"</b>(such as <b>(C)</b> above)<b>.
+or </b>
+( Although I am sorry a little that I don't check and try still firmly in fact, )
+Using "perl -i -p -e 's/HelloWorld/the_name_that_you_want_to_create/g' `find . -type f`"
+in H(HelloWorld)Dir and renaming "HelloWorld" to the name that you want to create is also may be possible.
+<b>Maybe You're easier the way as above, but not creating e.g."proguard.cfg" 
 </pre>
