@@ -74,7 +74,7 @@ That's why all you need to do is <b>copy the contents in the "Resource(s)" Dir</
 ( As an aside,&nbsp; Not only the files described in the above list,
 &nbsp; &nbsp; you can be downloaded <b>"several types of image files (for B2D)"</b> in this page.
 &nbsp; These <b>can be chenged as you modify HelloWorldScene.h(</b>of <b>HWc&h</b> files<b>) any time quickly & freely.</b> )
-<b>And if you want to use B2D,</b>
+<b>And only if you want to use B2D,</b>
 each person please <b>save xCode's files</b> of 1. above <b>and copy into position</b> such as sorry in repeating <b>.</b> 
 ( Besides, also as an aside,
 &nbsp; &nbsp; HelloWorldScene.cpp( among the HWc&h( = HelloWorldScene.cpp and HelloWorldScene.h) )
