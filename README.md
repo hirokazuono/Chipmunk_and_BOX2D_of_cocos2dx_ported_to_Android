@@ -90,13 +90,13 @@ cocos2dxVer11-13b$ diff -r cocos2d-1.0.1-x-0.11.0cpm/HelloWorld/Classes/HelloWor
 
 cocos2dxVer11-13b$ diff -r cocos2d-1.0.1-x-0.11.0cpm/HelloWorld/Classes/HelloWorldScene.cpp cocos2d-1.0.1-x-0.13.0-betacpm/HelloWorld/Classes/HelloWorldScene.cpp
 208c208
-<                 CCPoint location = touch->locationInView(touch->view());
+&lt;                 CCPoint location = touch->locationInView(touch->view());
 ---
 >                 CCPoint location = touch->locationInView();
 
 cocos2dxVer11-13b$ diff -r cocos2d-1.0.1-x-0.12.0cpm/HelloWorld/Classes/HelloWorldScene.cpp cocos2d-1.0.1-x-0.13.0-betacpm/HelloWorld/Classes/HelloWorldScene.cpp
 208c208
-<                 CCPoint location = touch->locationInView(touch->view());
+&lt;                 CCPoint location = touch->locationInView(touch->view());
 ---
 >                 CCPoint location = touch->locationInView();
 
@@ -106,13 +106,13 @@ cocos2dxVer11-13b$ diff -r cocos2d-1.0.1-x-0.11.0b2d/HelloWorld/Classes/HelloWor
 
 cocos2dxVer11-13b$ diff -r cocos2d-1.0.1-x-0.11.0b2d/HelloWorld/Classes/HelloWorldScene.cpp cocos2d-1.0.1-x-0.13.0-betab2d/HelloWorld/Classes/HelloWorldScene.cpp
 229c229
-<  	CCPoint location = touch->locationInView(touch->view());
+&lt;    CCPoint location = touch->locationInView(touch->view());
 ---
 > 		CCPoint location = touch->locationInView();
 
 cocos2dxVer11-13b$ diff -r cocos2d-1.0.1-x-0.12.0b2d/HelloWorld/Classes/HelloWorldScene.cpp cocos2d-1.0.1-x-0.13.0-betab2d/HelloWorld/Classes/HelloWorldScene.cpp
 229c229
-< 		CCPoint location = touch->locationInView(touch->view());
+&lt; 		CCPoint location = touch->locationInView(touch->view());
 ---
 > 		CCPoint location = touch->locationInView();
 </code>
