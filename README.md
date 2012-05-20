@@ -90,7 +90,8 @@ each person please <b>save xCode's files</b> of 1. above <b>and copy into positi
 prease move to the inside of "android Dir" in "a Dir of the name that you want to create</b><b>"
 in "android's cocos2d-x Dir</b>( that you want to create)<b>" and compile using "./build_native.sh".
 I think you create the completed App as above.</b>
-<hr><hr><hr></pre>
+</pre>  
+  
 <pre>
 <hr>
 <b>(C'</b>(C2)<b> = a supplementary explanation.)</b>
