@@ -35,10 +35,10 @@ to the Android Apps(applications) as  to work.
 ***
 1. At the 1st,Create **xCode's cocos2d-x files** by **install-templates-xcode.sh** in a Dir(fld) of 11 or 12 or 13beta  
 that is one of Dirs(flds) maked by **" the downloaded from cocos2d-x.org and extracted zip file(s) "** .  
-( Each xCode's cocos2d-x files(of 11,12,&13beta) create by **"./install-templates-xcode.sh -uf "**  
+**(** Each xCode's cocos2d-x files(of 11,12,&13beta) create by **"./install-templates-xcode.sh -uf "**  
 &nbsp;&nbsp;&nbsp;within each Dir(fld,of 11,12,&13beta from cocos2d-x.org) as above. &nbsp;&nbsp; In addition , not only these files  
 &nbsp;&nbsp;that are created, **xCode's working also will change** to behavior of the each version of the files created. However,  
-&nbsp;&nbsp;&nbsp;their **xCode types**(files&working) **can be changed to other xCode files** by **"-uf**( above)**"** , any time soon & freely. )  
+&nbsp;&nbsp;&nbsp;their **xCode types**(files&working) **can be changed to other xCode files** by **"-uf**( above)**"**, any time soon & quickly. **)**  
 And also you may have to use each files of chipmunk or Box2D  
 that you want to create, but only enough to use the files "2." as follows downloaded in "this page".  
 **(This reason of enough is** also mentioned in next **2.** as follows:i.e. " **B2D** files of no change **aren't be downloaded** ".**)**
