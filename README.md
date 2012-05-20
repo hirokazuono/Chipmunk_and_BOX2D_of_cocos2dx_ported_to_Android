@@ -95,6 +95,7 @@ I think you create the completed App as above.</b>
 <pre>
 <hr>
 <b>(C'</b>(C2)<b> = a supplementary explanation.)</b>
+<b>( as not same as "&nbsp; the way of these porting are bold.</b> &nbsp;&nbsp; &nbsp; / &nbsp; &nbsp;&nbsp; description of difference aren't not bold. &nbsp;<b>" aove. )</b>
 <hr>
 <b>If your created App remains named "Hello World",
 You need to move to the inside of "android Dir" in "H</b>(HelloWorld)<b>Dir" </b>such as <b>(C)</b> above
@@ -106,8 +107,11 @@ and compile using this build_native.sh as "./build_native.sh"</b>(such as <b>(C)
 or </b>
 ( Although I am sorry a little that I don't check and try still firmly in fact, )
 Using "perl -i -p -e 's/HelloWorld/the_name_that_you_want_to_create/g' `find . -type f`"
-in H(HelloWorld)Dir and renaming "HelloWorld" to the name that you want to create
-is also may be possible. <b>Maybe You're easier the way as above, 
+in H(HelloWorld)Dir
+and renaming "HelloWorld" to the name that you want to create
+and compiling with using this build_native.sh as "./build_native.sh"(such as (C) above)
+is
+also may be possible. <b>Maybe You're easier the way as above, 
 but the way isn't create e.g."proguard.cfg"</b>(as perhaps preventing to recompile the "apk" file)<b>.
 ( If you only changed the name of App that you want to create,
 &nbsp; &nbsp; The easiest and most effortless way, might be "only the modifying of string.xml ". )</b>
