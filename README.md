@@ -93,8 +93,7 @@ I think you create the completed App as above.</b>
 <hr><hr><hr></pre>
 <pre>
 <hr>
-<table><tr>
-<td><b>(C'</b>(C2)<b> = a supplementary explanation.)</b></td></tr></table>
+<b>(C'</b>(C2)<b> = a supplementary explanation.)</b>
 <hr>
 <b>If your created App remains named "Hello World",
 You need to move to the inside of "android Dir" in "H</b>(HelloWorld)<b>Dir" </b>such as <b>(C)</b> above
