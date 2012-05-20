@@ -90,10 +90,13 @@ each person please <b>save xCode's files</b> of 1. above <b>and copy into positi
 prease move to the inside of "android Dir" in "a Dir of the name that you want to create</b><b>"
 in "android's cocos2d-x Dir</b>( that you want to create)<b>" and compile using "./build_native.sh".
 I think you create the completed App as above.</b>
+<hr><hr><hr></pre>
+<pre>
 <hr>
+<table><tr>
+<td><b>(C'</b>(C2)<b> = a supplementary explanation.)</b></td></tr></table>
 <hr>
-<hr>
-<b>(C'</b>(C2)<b> = a supplementary explanation.) If your created App remains named "Hello World",
+<b>If your created App remains named "Hello World",
 You need to move to the inside of "android Dir" in "H</b>(HelloWorld)<b>Dir" </b>such as <b>(C)</b> above
 <b>and modify "NDK_ROOT_LOCAL" and "COCOS2DX_ROOT_LOCAL"
 at the beginning of "build_native.sh" in this "android Dir".
