@@ -103,7 +103,7 @@ or </b>
 Using "perl -i -p -e 's/HelloWorld/the_name_that_you_want_to_create/g' `find . -type f`"
 in H(HelloWorld)Dir and renaming "HelloWorld" to the name that you want to create
 is also may be possible. <b>Maybe You're easier the way as above, 
-but the way isn't create e.g."proguard.cfg"</b>( as perhaps doen't compile the "apk" file )<b>.
+but the way isn't create e.g."proguard.cfg"</b>( as perhaps not compiling the "apk" file )<b>.
 ( If you only changed the name of App that you want to create,
 &nbsp; &nbsp; The easiest and most effortless way, might be "only the modifying of string.xml ". )</b>
 </pre>
