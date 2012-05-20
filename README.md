@@ -95,7 +95,7 @@ I think you create the completed App as above.</b>
 You need to move to the inside of "android Dir" in "H</b>(HelloWorld)<b>Dir" </b>such as <b>(C)</b> above
 <b>and modify "NDK_ROOT_LOCAL" and "COCOS2DX_ROOT_LOCAL"
 at the beginning of "build_native.sh" in this "android Dir".
-such as <b>NDK_ROOT_LOCAL=/cygdrive/d/programe/android/ndk/android-ndk-r6b( → /xxx/android-ndk-r(6,7etc))
+such as NDK_ROOT_LOCAL=/cygdrive/d/programe/android/ndk/android-ndk-r6b( → /xxx/android-ndk-r(6,7etc))
 COCOS2DX_ROOT_LOCAL="/home/xxxxx/android/android-sdk-linux_86"( → (the pass of android's cocos2d-x) &nbsp;)
 and compile using this build_native.sh as "./build_native.sh"</b>(such as <b>(C)</b> above)<b>.
 or </b>
