@@ -91,7 +91,7 @@ prease move to the inside of "android Dir" in "a Dir the name that you want to c
 in "android's cocos2d-x Dir</b>( that you want to create)<b>" and compile using "./build_native.sh".
 I think you create the completed App as above.</b>
 <hr>
-<b>(C'<.b>(C2)<b>) If your created App remains named "Hello World",
+<b>(C'<b>(C2)<b>) If your created App remains named "Hello World",
 You need to move to the inside of "android Dir" in "H</b>(HelloWorld)<b>Dir" </b>such as <b>(C)</b> above
 <b>and modify "NDK_ROOT_LOCAL" and "COCOS2DX_ROOT_LOCAL"
 at the beginning of "build_native.sh" in this "android Dir".
@@ -101,6 +101,9 @@ and compile using this build_native.sh as "./build_native.sh"</b>(such as <b>(C)
 or </b>
 ( Although I am sorry a little that I don't check and try still firmly in fact, )
 Using "perl -i -p -e 's/HelloWorld/the_name_that_you_want_to_create/g' `find . -type f`"
-in H(HelloWorld)Dir and renaming "HelloWorld" to the name that you want to create is also may be possible.
-<b>Maybe You're easier the way as above, but not creating e.g."proguard.cfg" 
+in H(HelloWorld)Dir and renaming "HelloWorld" to the name that you want to create
+is also may be possible. <b>Maybe You're easier the way as above, 
+but not creating e.g."proguard.cfg"</b> as perhaps not compiling the "apk" file <b>.
+( If you only changed the name of App that you want to create,
+&nbsp; &nbsp; The easiest and most effortless way, might be "only the modifying of string.xml ". )</b>
 </pre>
