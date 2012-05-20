@@ -6,7 +6,7 @@ to the Android Apps(applications) as  to work.
 <b>, Ap = Application.mk , A = Android.mk</b>  ( are "mk files". )
 <b>Dir(fld)</b> = Directory(or Folder) , <b>j = jni(Dir) , h =  helloworld(Dir) , C = Classes(Dir)
 , H = HelloWorld(Dir</b>(fld). TopDir of this changing , not "helloworld(Dir)" above. <b>)</b>
-, <b>t = template(Dir</b>(fld). Other than(<b>Out of</b>) <b>H</b>elloWorld Dir(fld). <b>)</b> &nbsp;&nbsp; &nbsp; <b>/ &nbsp; &nbsp;&nbsp; B2D=Box2d</b>
+, <b>t = template(Dir</b>(fld). Other than(<b>Out of</b>) <b>H</b>elloWorld Dir(fld). <b>)</b> &nbsp;&nbsp; &nbsp; <b>/ &nbsp;&nbsp; B2D = Box2D</b>(Dirs or files)
 </pre>
 <table><tr>
 <td>version→</td>
@@ -43,11 +43,11 @@ And also you should create each files of chipmunk or Box2D
 that you want to create, but only enough to use the files "2." as follows downloaded in "this page".  
 **(This reason of enough is** mentioned in next 2. a little &**described in 3. below**(i.e. "difference of each cocos2d-x files")**.)**
 2. Change & copy some of **"1.**&nbsp;(above. &nbsp; =(equal) the **chg**(change)**&copy list** at the beginning**)" .** It should be noted that  
-**these "chg&copy list files** (of the changed files from the original files(exceptB2Ddir))**" are downloaded in "this page"**.  
+**these "chg&copy list files** (of the changed files from the original files**(except B2D**files)**)" are downloaded in "this page"**.  
 If you use them , **apps can be created soon and quickly**. &nbsp;&nbsp;Moreover , **the changes are minimum changes  
 as can (** and many changes of the files have been **added annotation**(e.g."# ~ 1205xx xx:xx chg ~ ). **) .** &nbsp; Because  
 I believe very safe that "anyone **can be easy to understand the changes** , not only can create apps soon & quickly ".  
-(For this reason, **B2DDir** of no change **aren't be download in "this page". save xCode's files of 1.**above **&copy** into position.)  
+(For this reason, **B2D**files of no change **aren't be download in "this page". save xCode's files of 1.**above **&copy** into position.)  
 3. **The way of these porting and Description of**  
 **the minimum changes(& difference of each cocos2d-x files** of versions and types(chipmunk&B2D and android&xCode) **)**  
 as follows. &nbsp;&nbsp; &nbsp; ( &nbsp; **the way of these porting are bold.** &nbsp;&nbsp; &nbsp; / &nbsp; &nbsp;&nbsp; description of difference aren't not bold. &nbsp; )
