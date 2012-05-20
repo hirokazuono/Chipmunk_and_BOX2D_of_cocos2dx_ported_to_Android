@@ -65,7 +65,7 @@ Such as <b>NDK_ROOT_LOCAL="/home/laschweinski/android/android-ndk-r5"( → "/xxx
 By the way, In All versions(as 11,12,and 13beta) which are created by "create-android.sh",
 11 includes a "Resourace" directory but it's "(ending in s and) Resources" in 12 and 13b.
 (As a result, "A in <b>C</b>"<b>( =</b> Android.mk in <b>C(</b>(lasses in H(lloWorld))<b>Dir</b>(ectry)<b>)</b> <b>)</b> of 11
-&nbsp;  are only differd , among the "mk.files". )
+&nbsp; are only differd , among the "mk.files". )
 However, the contents in each Directories also are almost the same
 &nbsp;except that " 12 and 13 don't exist the icon.png but exist the font Dir,
 &nbsp; &nbsp; on the contrary, only 11 don't exists the font Dir but exist icon.png ".
@@ -74,6 +74,6 @@ That's why all you need to do is <b>copy the contents in the "Resource(s)" Dir</
 ( As an aside,
 &nbsp; not only the files described in the above list,
 &nbsp; &nbsp; you can be downloaded <b>"several types of image files (for B2D)"</b> in this page .
-&nbsp;These <b>can be chenged as you modify HelloWorldScene.h(</b>of <b>HWc&h</b> files<b>) any time quickly & freely.</b>)
+&nbsp; These <b>can be chenged as you modify HelloWorldScene.h(</b>of <b>HWc&h</b> files<b>) any time quickly & freely.</b>)
 
 </pre>
