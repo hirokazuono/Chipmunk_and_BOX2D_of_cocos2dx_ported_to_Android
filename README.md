@@ -9,7 +9,7 @@ to the Android Apps(applications) as  to work.
 , <b>t = template(Dir</b>(fld). Other than(<b>Out of</b>) <b>H</b>elloWorld Dir(fld). <b>)</b>
 </pre>
 <table><tr>
-<td><b>version</b></td>
+<td>version→</td>
 <td>11</td><td>12</td>
 <td>13beta</td></tr>
 <tr>
@@ -41,7 +41,7 @@ that is one of Dirs(flds) maked by **" the downloaded from cocos2d-x.org and ext
 &nbsp;&nbsp;&nbsp;their **xCode types**(files&working) **can be changed to other xCode files** by **"-uf"**( above) , any time soon & freely. )  
 And also you should create each files of chipmunk or Box2D  
 that you want to create, but only enough to use the files "2." as follows downloaded in "this page".  
-**(This reason of enough is** mentioned in next 2. a little **described in 3. below**(i.e. "difference of each cocos2d-x files")**.)**
+**(This reason of enough is** mentioned in next 2. a little &**described in 3. below**(i.e. "difference of each cocos2d-x files")**.)**
 2. Change & copy some of **"1.**&nbsp;(above. &nbsp; =(equal) the **chg**(change)**&copy list** at the beginning**)" .** It should be noted that  
 **these "chg&copy list files** (of the changed files from the original files(exceptB2Ddir))**" are downloaded in "this page"**.  
 If you use them , **apps can be created soon and quickly**. &nbsp;&nbsp;Moreover , **the changes are minimum changes  
