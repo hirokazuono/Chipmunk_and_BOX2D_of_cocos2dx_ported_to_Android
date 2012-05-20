@@ -70,7 +70,7 @@ By the way, In All versions(as 11,12,and 13beta) which are created by "create-an
 However,
 the contents in each Directories(Not only for all versions</b>(11-13b)<b>,all types</b>(B2Detc)<b>, too</b>.)
 are almost the same except that " 12 and 13 don't exist the icon.png but exist the font Dir,
-on the contrary, only 11 don't exists the font Dir but exist icon.png ".
+&nbsp; on the contrary, only 11 don't exists the font Dir but exist icon.png ".
 That's why all you need to do is <b>copy the contents in the "Resource(s)" Dir</b>(ectry)
 <b>to the "Resource(s)" Dir</b>(ectry) <b>in C(</b>(lasses in H(lloWorld))<b>Dir</b>(ectry)<b>)</b> that you want create.
 ( As an aside,&nbsp; Not only the files described in the above list,
