@@ -76,10 +76,11 @@ That's why all you need to do is <b>copy the contents in the "Resource(s)" Dir</
 &nbsp; These <b>can be chenged as you modify HelloWorldScene.h(</b>of <b>HWc&h</b> files<b>) any time quickly & freely.</b> )
 <b>And if you want to use B2D,</b>
 each person please <b>save xCode's files</b> of 1. above <b>and copy into position</b> such as sorry in repeating <b>.</b> 
-( Besides, also as an aside,&nbsp; HelloWorldScene.cpp( among the HWc&h( = HelloWorldScene.cpp and HelloWorldScene.h) )
-&nbsp; &nbsp; that are used each cocos2d-x files of versions and types(chipmunk&B2D and android&xCode)
-&nbsp;  is not changed at all and used in exactly the same content
-&nbsp; &nbsp; except that 11 and 12 are "CCPoint point = touch->locationInView(touch->view());"
-&nbsp; &nbsp; &nbsp; but only newest 13beta is without "touch->view()" as "CCPoint point = touch->locationInView();". )
+( Besides, also as an aside,
+&nbsp; &nbsp; HelloWorldScene.cpp( among the HWc&h( = HelloWorldScene.cpp and HelloWorldScene.h) )
+&nbsp; that are used each cocos2d-x files of versions and types(chipmunk&B2D and android&xCode)
+&nbsp; &nbsp; is not changed at all and used in exactly the same content
+&nbsp; except that 11 and 12 are "CCPoint point = touch->locationInView(touch->view());"
+&nbsp; &nbsp; but only newest 13beta is without "touch->view()" as "CCPoint point = touch->locationInView();". )
  
 </pre>
