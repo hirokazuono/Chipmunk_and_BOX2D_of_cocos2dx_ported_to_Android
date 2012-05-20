@@ -83,39 +83,5 @@ All of them already have been fixed for all type and version. but HelloWorldScen
 &nbsp; &nbsp;( = chipmunk or B2D ) are not changed at all and used in exactly the same content
 &nbsp; except that 11 and 12 are "CCPoint point = touch->locationInView(touch->view());"
 &nbsp; &nbsp; but only newest 13beta is without "touch->view()" as "CCPoint point = touch->locationInView();".
-<code>
-
-(Each type chipmunk)
-cocos2dxVer11-13b$ diff -r cocos2d-1.0.1-x-0.11.0cpm/HelloWorld/Classes/HelloWorldScene.cpp cocos2d-1.0.1-x-0.12.0cpm/HelloWorld/Classes/HelloWorldScene.cpp
-
-cocos2dxVer11-13b$ diff -r cocos2d-1.0.1-x-0.11.0cpm/HelloWorld/Classes/HelloWorldScene.cpp cocos2d-1.0.1-x-0.13.0-betacpm/HelloWorld/Classes/HelloWorldScene.cpp
-208c208
-                 CCPoint location = touch->locationInView(touch->view());
----
-                 CCPoint location = touch->locationInView();
-
-cocos2dxVer11-13b$ diff -r cocos2d-1.0.1-x-0.12.0cpm/HelloWorld/Classes/HelloWorldScene.cpp cocos2d-1.0.1-x-0.13.0-betacpm/HelloWorld/Classes/HelloWorldScene.cpp
-208c208
-                 CCPoint location = touch->locationInView(touch->view());
----
-                 CCPoint location = touch->locationInView();
-
-
-(Each type Bpx2D)
-cocos2dxVer11-13b$ diff -r cocos2d-1.0.1-x-0.11.0b2d/HelloWorld/Classes/HelloWorldScene.cpp cocos2d-1.0.1-x-0.12.0b2d/HelloWorld/Classes/HelloWorldScene.cpp
-
-cocos2dxVer11-13b$ diff -r cocos2d-1.0.1-x-0.11.0b2d/HelloWorld/Classes/HelloWorldScene.cpp cocos2d-1.0.1-x-0.13.0-betab2d/HelloWorld/Classes/HelloWorldScene.cpp
-229c229
-                   CCPoint location = touch->locationInView(touch->view());
----
- 		CCPoint location = touch->locationInView();
-
-cocos2dxVer11-13b$ diff -r cocos2d-1.0.1-x-0.12.0b2d/HelloWorld/Classes/HelloWorldScene.cpp cocos2d-1.0.1-x-0.13.0-betab2d/HelloWorld/Classes/HelloWorldScene.cpp
-229c229
- 		CCPoint location = touch->locationInView(touch->view());
----
- 		CCPoint location = touch->locationInView();
-</code>
-
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; )
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; http://omaena.com/diff_cocos2dxVer11-13b.txt&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; )
 </pre>
