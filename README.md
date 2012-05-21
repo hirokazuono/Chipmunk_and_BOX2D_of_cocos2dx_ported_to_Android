@@ -63,7 +63,9 @@ ANDROID_SDK_ROOT_LOCAL="/home/xxxxx/android/android-sdk-linux_86"( → "/Applica
 and "the created files of the name that you want to create are used (C) below.</b>
 And then,
 If you will create App of later than varsion 11</b>(equal 12,13beta...<b>,in all types</b>(B2D&chipmunk) )
-<b>Please Change at the beginning of "create-android-project.sh" as "NEED_BOX2D=true or NEED_CHIPMUNK=true".</b>
+<b>Please Change
+at the beginning of "create-android-project.sh" as "NEED_BOX2D=true or NEED_CHIPMUNK=true".
+( Be careful! If it does not do so can not even compile at all later than varsion 11. )</b>
 <hr>
 <b>(B</b>(=2.)<b>) Please copy the files that are on the "chg&copy list" as of the list.</b>
 By the way, In All versions(as 11,12,and 13beta) which are created by "create-android.sh",
