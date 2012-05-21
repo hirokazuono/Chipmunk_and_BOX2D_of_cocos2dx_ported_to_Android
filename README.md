@@ -52,7 +52,7 @@ I believe very safe that "anyone **can be easy to understand the changes** , not
 **the minimum changes(& difference of each cocos2d-x files** of versions and types(chipmunk&B2D and android&xCode) **)**  
 as follows. &nbsp;&nbsp; &nbsp; ( &nbsp; **the way of these porting are bold.** &nbsp;&nbsp; &nbsp; / &nbsp; &nbsp;&nbsp; description of difference aren't not bold. &nbsp; )
 <pre>
-<b>(A</b>(=1.)<b>) After "1."</b>as above
+<b>(A</b>(=1. & continuation of 1. )<b>) After "1."</b>as above
 <b>(i.e. after creating xCode's files of versions and types that you want to create),
 please also create android's cocos2d-x files of versions and types that you want to create
 by create-android-project.sh.</b> Incidentally, I think no need particularly for descriptions
@@ -65,7 +65,7 @@ And then,
 If you will create App of <b>the later than varsion 11</b>(equal 12,13beta...<b>,in all types</b>(B2D&chipmunk))
 <b>Please Change
 at the beginning of "create-android-project.sh" as "NEED_BOX2D=true or NEED_CHIPMUNK=true".
-</b>(&nbsp;<b>Be careful if</b> it does <b>not,</b> you <b>can't create</b> App of <b>the later than</b> varsion <b>11 in all types</b> at all.)
+</b>( <b>Be careful if</b> it does <b>not,</b> you <b>can't create</b> App of <b>the later than</b> varsion <b>11 in all types</b> at all.)
 <hr>
 <b>(B</b>(=2.)<b>) Please copy the files that are on the "chg&copy list" as of the list.</b>
 By the way, In All versions(as 11,12,and 13beta) which are created by "create-android.sh",
