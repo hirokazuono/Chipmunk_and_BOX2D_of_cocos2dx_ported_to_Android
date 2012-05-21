@@ -62,10 +62,10 @@ Such as <b>NDK_ROOT_LOCAL="/home/laschweinski/android/android-ndk-r5"( → "/xxx
 ANDROID_SDK_ROOT_LOCAL="/home/xxxxx/android/android-sdk-linux_86"( → "/Applications/android-sdk")
 and "the created files of the name that you want to create are used (C) below.</b>
 And then,
-If you will create App of <b>later than varsion 11</b>(equal 12,13beta...<b>,in all types</b>(B2D&chipmunk) )
+If you will create App of <b>the later than varsion 11</b>(equal 12,13beta...<b>,in all types</b>(B2D&chipmunk))
 <b>Please Change
 at the beginning of "create-android-project.sh" as "NEED_BOX2D=true or NEED_CHIPMUNK=true".
-</b>(&nbsp;<b>Be careful.If</b> it does <b>not,</b> you <b>can't create</b> App <b>later than</b> varsion <b>11 in all types</b> at all.)
+</b>(&nbsp;<b>Be careful if</b> it does <b>not,</b> you <b>can't create</b> App of <b>the later than</b> varsion <b>11 in all types</b> at all.)
 <hr>
 <b>(B</b>(=2.)<b>) Please copy the files that are on the "chg&copy list" as of the list.</b>
 By the way, In All versions(as 11,12,and 13beta) which are created by "create-android.sh",
