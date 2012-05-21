@@ -61,13 +61,17 @@ this "create-android-project.sh" because many descriptions already exist in vari
 Such as <b>NDK_ROOT_LOCAL="/home/laschweinski/android/android-ndk-r5"( → "/xxx/android-ndk-r(6,7etc)")
 ANDROID_SDK_ROOT_LOCAL="/home/xxxxx/android/android-sdk-linux_86"( → "/Applications/android-sdk")
 and "the created files of the name that you want to create are used (C) below.</b>
+And then,
+If you will create App of later than varsion 11</b>(equal 12,13beta...<b>,in all types</b>(B2D&chipmunk) )
+<b>Please Change at the beginning of "create-android-project.sh" as "NEED_BOX2D=true or NEED_CHIPMUNK=true".</b>
 <hr>
 <b>(B</b>(=2.)<b>) Please copy the files that are on the "chg&copy list" as of the list.</b>
 By the way, In All versions(as 11,12,and 13beta) which are created by "create-android.sh",
 11 includes a "Resourace" directory but it's "(ending in s and) Resources" in 12 and 13b.
 (As a result, "A in <b>C</b>"<b>( =</b> Android.mk in <b>C(</b>(lasses in H(lloWorld))<b>Dir</b>(ectry)<b>)</b> <b>)</b> of 11
 &nbsp; are only differd , among the "mk.files". )
-However,the contents in each Directories(Not only for all versions</b>(11-13b)<b>,all types</b>(B2Detc)<b>, too</b>.)
+However,
+the contents in each Directories(Not only for all versions</b>(11-13b)<b>,all types</b>(B2D&chipmunk)<b>, too</b>.)
 are almost the same
 except that " 12 and 13 don't exist the icon.png but exist the font Dir,
 &nbsp; &nbsp; on the contrary, only 11 don't exists the font Dir but exist icon.png ".
@@ -87,7 +91,7 @@ each person please <b>save xCode's files</b> of 1. above <b>and copy into positi
 &nbsp; but only newest 13beta is without "touch->view()" as "CCPoint point = touch->locationInView();".
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; http://omaena.com/diff_cocos2dxVer11-13b.txt&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; )
 <hr>
-<b>(C) After (A) and (B) , 
+<b>(C) After(A)and(B), 
 prease move to the inside of "android Dir" in "a Dir of the name that you want to create</b><b>"
 in "android's cocos2d-x Dir</b>( that you want to create)<b>" and compile using "./build_native.sh".
 I think you create the completed App as above.</b>
