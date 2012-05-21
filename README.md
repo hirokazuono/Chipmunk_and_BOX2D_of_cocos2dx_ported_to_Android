@@ -65,7 +65,7 @@ And then,
 If you will create App of later than varsion 11</b>(equal 12,13beta...<b>,in all types</b>(B2D&chipmunk) )
 <b>Please Change
 at the beginning of "create-android-project.sh" as "NEED_BOX2D=true or NEED_CHIPMUNK=true".
-( Be careful! If it does not do so can not even compile at all later than varsion 11. )</b>
+( Be careful! If If it does not, you can not compile  at all Apps of later than varsion 11(in alltypes). )</b>
 <hr>
 <b>(B</b>(=2.)<b>) Please copy the files that are on the "chg&copy list" as of the list.</b>
 By the way, In All versions(as 11,12,and 13beta) which are created by "create-android.sh",
