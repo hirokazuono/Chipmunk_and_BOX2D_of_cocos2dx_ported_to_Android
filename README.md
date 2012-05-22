@@ -17,7 +17,7 @@ to the Android Apps(applications) as  to work.
 <td rowspan=3>into<b>H</b> Dir</td>
 <td>"HWc&h" in<b>C</b>(in <b>H</b>)<b>Dir</b>(=2)</td>
 <td>"HWc&h" in<b>C</b>(in <b>H</b>)<b>Dir</b>(=2)</td>
-<td>"HWc&h" in<b>C</b>(in <b>H</b>)<b>Dir</b>(=2)←All are the same</td></tr>
+<td>"HWc&h" in<b>C</b>(in <b>H</b>)<b>Dir</b>(=2) ,←All are the same</td></tr>
 
 <td>"A" in<b>C</b> /Ap&A in <b>j</b> / A in <b>h</b>(in<b>j)</b</td>
 <td>"A" in<b>C</b> /Ap&A in <b>j</b> / A in <b>h</b>(in<b>j)</b> =<b>6</b></td>
