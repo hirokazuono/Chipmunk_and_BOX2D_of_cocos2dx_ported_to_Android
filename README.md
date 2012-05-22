@@ -125,5 +125,7 @@ but the way isn't create e.g."proguard.cfg"</b>(as perhaps preventing to recompi
 ( If you only changed the name of App that you want to create,
 &nbsp; &nbsp; The easiest and most effortless way, might be "only the modifying of string.xml ". )</b>
 <hr>
-
+The app of 13 beta version might be that "display isn't  made ​​some changes at the time of the screen changes".
+All of the version 13 beta sample(e.g. "HellowWorld" and not only "HelloWorld"("HelloLua" and "test", and others))
+that contains from the present, it may be so.
 </pre>
