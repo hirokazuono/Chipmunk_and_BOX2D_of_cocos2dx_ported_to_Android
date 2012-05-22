@@ -41,14 +41,14 @@ that is one of Dirs(flds) maked by **" the downloaded from cocos2d-x.org and ext
 &nbsp;&nbsp;that are created, **xCode's working also will change** to behavior of the each version of the files created. However,  
 &nbsp;&nbsp;&nbsp;their **xCode types**(files&working) **can be changed to other xCode files** by **"-uf**( above)**"**, **any time quickly & freely. )**  
 And also you may have to use each files of chipmunk or Box2D  
-that you want to create, but only enough to use the files "2." as follows downloaded in "this page".  
+that you want to create, but **only enough to use the "2." files** that downloaded in "this page" **as below.**  
 **( This reason of enough is** also mentioned in next **2.** as follows:i.e. " **B2D** files of no change **aren't be downloaded** ". **)**
 2. Change & copy some of **"1.**&nbsp;(above. &nbsp; =(equal) the **chg**(change)**&copy list** at the beginning**)" .** It should be noted that  
 **these "chg&copy list files** (of the changed files from the original files**(except B2D** files)**)" are downloaded in "this page"**.  
 If you use them , **apps can be created soon and quickly**. &nbsp;&nbsp;Moreover , **the changes are minimum changes  
 as can (** and many changes of the files have been **added annotation**(e.g."# ~ 1205110818 chg ~ ). **) .** &nbsp; Because  
 I believe very safe that "anyone **can be easy to understand the changes** , not only can create apps soon & quickly ".  
-( So **B2D** files of no change **aren't be downloaded in "this page". save xCode's files of 1.** above **&copy** into position. )  
+( So **B2D** files of no change **aren't be downloaded in "this page".save android filesof A. below &copy** into position. )  
 3. **The way of these porting and Description of**  
 **the minimum changes(& difference of each cocos2d-x files** of versions and types(chipmunk&B2D and android&xCode) **)**  
 as follows. &nbsp;&nbsp; &nbsp; ( &nbsp; **the way of these porting are bold.** &nbsp;&nbsp; &nbsp; / &nbsp; &nbsp;&nbsp; description of difference aren't not bold. &nbsp; )
