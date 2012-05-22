@@ -17,14 +17,14 @@ to the Android Apps(applications) as  to work.
 <td rowspan=3>into<b>H</b> Dir</td>
 <td>"HWc&h" in<b>C</b>(in <b>H</b>)<b>Dir</b>(=2)</td>
 <td>"HWc&h" in<b>C</b>(in <b>H</b>)<b>Dir</b>(=2)</td>
-<td>"HWc&h" in<b>C</b>(in <b>H</b>)<b>Dir</b>(=2)<b>←All are the same</b></td></tr>
+<td>"HWc&h" in<b>C</b>(in <b>H</b>)<b>Dir</b>(=2)←All are the same</td></tr>
 
 <td>"A" in<b>C</b> /Ap&A in <b>j</b> / A in <b>h</b>(in<b>j)</b</td>
 <td>"A" in<b>C</b> /Ap&A in <b>j</b> / A in <b>h</b>(in<b>j)</b> =<b>6</b></td>
 <td>"A" in<b>j</b>(Ap no changed/<b>No</b> A<b>in h</b>(in<b>j</b>)<b>&in C</b>) =<b>3</b></td></tr>
 
 <tr>
-<td colspan=3>( & <b>"Only 11</b>(except 12or13b)Box2D's <b>Box2D" Dir</b>(<b>on the outside of HDir</b>)ectry are copied into <b>C</b>(in <b>H</b>)<b>Dir</b>ectry. )</td>
+<td colspan=3>( & <b>"Only 11</b>(except 12or13b)Box2D's <b>Box2D" Dir</b>(<b>on the outside of HDir</b>)ectry <b>are copied into C</b>(in <b>H</b>)<b>Dir</b>ectry<b>.</b> )</td>
 </tr>
 
 <tr>
