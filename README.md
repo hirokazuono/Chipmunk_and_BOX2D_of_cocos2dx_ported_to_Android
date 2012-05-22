@@ -21,7 +21,7 @@ to the Android Apps(applications) as  to work.
 
 <td>"A" in<b>C</b> /Ap&A in <b>j</b> / A in <b>h</b>(in<b>j)</b</td>
 <td>"A" in<b>C</b> /Ap&A in <b>j</b> / A in <b>h</b>(in<b>j)</b> =<b>6</b></td>
-<td>"A"in<b>j</b>(Ap no modified/<b>No</b> A<b>in h</b>(in<b>j</b>)<b>&in C</b>) =<b>3</b></td></tr>
+<td>"A" in<b>j</b>(Ap no changed/<b>No</b> A<b>in h</b>(in<b>j</b>)<b>&in C</b>) =<b>3</b></td></tr>
 
 <tr>
 <td colspan=3>( & <b>"Only 11</b>(except 12or13b)Box2D's <b>Box2D" Dir</b>(<b>on the outside of HDir</b>)ectry are copied into <b>C</b>(in <b>H</b>)<b>Dir</b>ectry. )</td>
