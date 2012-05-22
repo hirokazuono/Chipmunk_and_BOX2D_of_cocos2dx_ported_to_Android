@@ -48,7 +48,7 @@ that you want to create, but **only enough to use the "2." files** that download
 If you use them , **apps can be created soon and quickly**. &nbsp;&nbsp;Moreover , **the changes are minimum changes  
 as can (** and many changes of the files have been **added annotation**(e.g."# ~ 1205110818 chg ~ ). **) .** &nbsp; Because  
 I believe very safe that "anyone **can be easy to understand the changes** , not only can create apps soon & quickly ".  
-( So **B2D** files of no change **aren't be downloaded in "this page".save android filesof A. below &copy** into position. )  
+( So **B2D** files of no change **aren't be downloaded in "this page". save android files of A. below & copy** into position. )  
 3. **The way of these porting and Description of**  
 **the minimum changes(& difference of each cocos2d-x files** of versions and types(chipmunk&B2D and android&xCode) **)**  
 as follows. &nbsp;&nbsp; &nbsp; ( &nbsp; **the way of these porting are bold.** &nbsp;&nbsp; &nbsp; / &nbsp; &nbsp;&nbsp; description of difference aren't not bold. &nbsp; )
