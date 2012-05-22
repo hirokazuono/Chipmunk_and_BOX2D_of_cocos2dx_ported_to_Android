@@ -128,6 +128,6 @@ but the way isn't create e.g."proguard.cfg"</b>(as perhaps preventing to recompi
 <b>The app of 13 beta version might be that
 "display isn't  made some changes at the time of the screen changes".
 All of the version 13 beta sample
-(</b>&nbsp;e.g. "HellowWorld" and <b>not only "HelloWorld"("HelloLua" and "test", and others</b>)&nbsp;<b>)</b>
-that contains from the present<b>, it may be so.&nbsp; &nbsp; ( " Please refer to the video below. "&nbsp; )</b>
+(</b>&nbsp;e.g. "HellowWorld" and <b>not only "HelloWorld"</b>(<b>"HelloLua" and "test", and others</b>)&nbsp;<b>)</b>
+that contains from the present<b>, it may be so.&nbsp; &nbsp; " Please refer to the video below. "</b>
 </pre>
