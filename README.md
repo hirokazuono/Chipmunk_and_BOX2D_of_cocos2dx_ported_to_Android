@@ -6,7 +6,8 @@ to the Android Apps(applications) as  to work.
 <b>, Ap = Application.mk , A = Android.mk</b>  ( are "mk files". )
 <b>Dir(fld)</b> = Directory(or Folder) , <b>j = jni(Dir) , h =  helloworld(Dir) , C = Classes(Dir)
 , H = HelloWorld(Dir</b>(fld). TopDir of this changing&creating , not "helloworld(Dir)" above. <b>)</b>
-, <b>t = template(Dir</b>(fld). Other than(<b>Out of</b>) <b>H</b>elloWorld Dir(fld). <b>)</b> &nbsp;&nbsp; &nbsp; <b>/ &nbsp;&nbsp; B2D = Box2D</b>(Dirs or files)
+, <b>a_in_t = android(Dir</b>(fld)<b>_in_template(Dir</b>(fld) other than(<b>outside</b>) <b>H</b>elloWorld Dir(fld). <b>)</b>
+&nbsp;&nbsp; &nbsp; <b>/ &nbsp;&nbsp; B2D = Box2D</b>(Dirs or files)
 </pre>
 <table><tr>
 <td>version→</td>
@@ -65,7 +66,7 @@ And then,
 If you will create App of <b>the later than varsion 11</b>(equal 12,13beta...<b>,in all types</b>(B2D&chipmunk))
 <b>Please Change
 at the beginning of "create-android-project.sh" as "NEED_BOX2D=true or NEED_CHIPMUNK=true".
-</b>( <b>Be careful if</b> it does <b>not,</b> you <b>can't create</b> App of <b>the later than</b> varsion <b>11 in all types</b> at all.)
+</b>(<b>Be careful if</b> it does <b>not,</b> you <b>can't create</b> App of <b>the later than</b> varsion <b>11 in all types</b> at all.)
 <hr>
 <b>(B</b>(=2.)<b>) Please copy the files that are on the "chg&copy list" as of the list.</b>
 By the way, In All versions(as 11,12,and 13beta) which are created by "create-android.sh",
@@ -123,4 +124,6 @@ also may be possible. <b>Maybe You're easier the way as above,
 but the way isn't create e.g."proguard.cfg"</b>(as perhaps preventing to recompile the "apk" file)<b>.
 ( If you only changed the name of App that you want to create,
 &nbsp; &nbsp; The easiest and most effortless way, might be "only the modifying of string.xml ". )</b>
+<hr>
+
 </pre>
