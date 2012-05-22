@@ -15,13 +15,13 @@ to the Android Apps(applications) as  to work.
 <td>13beta</td></tr>
 <tr>
 <td rowspan=3>into<b>H</b> Dir</td>
-<td>HWc&h in <b>C</b>(in <b>H</b>)<b>Dir</b>(=2)</td>
-<td>HWc&h in <b>C</b>(in <b>H</b>)<b>Dir</b>(=2)</td>
-<td>HWc&h in <b>C</b>(in <b>H</b>)<b>Dir</b>(=2)<b>←All are the same</b></td></tr>
+<td>"HWc&h"in<b>C</b>(in <b>H</b>)<b>Dir</b>(=2)</td>
+<td>"HWc&h"in<b>C</b>(in <b>H</b>)<b>Dir</b>(=2)</td>
+<td>"HWc&h"in<b>C</b>(in <b>H</b>)<b>Dir</b>(=2)<b>←All are the same</b></td></tr>
 
-<td>A in <b>C</b> / Ap&A in <b>j</b> / A in <b>h</b>(in<b>j)</b</td>
-<td>A in <b>C</b> / Ap&A in <b>j</b> / A in <b>h</b>(in<b>j)</b> =<b>6</b></td>
-<td>A in <b>j</b>(Ap no modified/<b>No</b> A<b>in h</b>(in<b>j</b>)<b>&in C</b>) =<b>3</b></td></tr>
+<td>"A"in<b>C</b> / Ap&A in <b>j</b> / A in <b>h</b>(in<b>j)</b</td>
+<td>"A"in<b>C</b> / Ap&A in <b>j</b> / A in <b>h</b>(in<b>j)</b> =<b>6</b></td>
+<td>"A"in<b>j</b>(Ap no modified/<b>No</b> A<b>in h</b>(in<b>j</b>)<b>&in C</b>) =<b>3</b></td></tr>
 
 <tr>
 <td colspan=3>( & <b>"Only 11</b>(except 12or13b)Box2D's <b>Box2D" Dir</b>(<b>on the outside of HDir</b>)ectry are copied into <b>C</b>(in <b>H</b>)<b>Dir</b>ectry. )</td>
@@ -29,7 +29,7 @@ to the Android Apps(applications) as  to work.
 
 <tr>
 <td>into<b>&nbsp;t</b> Dir</td>
-<td>Ap in <b>t</b> =<b>7(&1 Dir</b> of v11 B2D<b>)</b></td>
+<td>"Ap"in <b>t</b> =<b>7(&1 Dir</b>of v11 B2D<b>)</b></td>
 <td></td>
 <td></td>
 </tr></table>
@@ -48,7 +48,7 @@ that you want to create, but **only enough to use the "2." files** that download
 If you use them , **apps can be created soon and quickly**. &nbsp;&nbsp;Moreover , **the changes are minimum changes  
 as can (** and many changes of the files have been **added annotation**(e.g."# ~ 1205110818 chg ~ ). **) .** &nbsp; Because  
 I believe very safe that "anyone **can be easy to understand the changes** , not only can create apps soon & quickly ".  
-( So **B2D** files of no change **aren't be downloaded** in "this page"**. &nbsp;save android files of A. below & copy** into position. )  
+( So **B2D** files of no change **aren't be downloaded** in "this page"**. &nbsp;save Android files of A. below & copy** into position. )  
 3. **The way of these porting and Description of**  
 **the minimum changes(& difference of each cocos2d-x files** of versions and types(chipmunk&B2D and android&xCode) **)**  
 as follows. &nbsp;&nbsp; &nbsp; ( &nbsp; **the way of these porting are bold.** &nbsp;&nbsp; &nbsp; / &nbsp; &nbsp;&nbsp; description of difference aren't not bold. &nbsp; )
