@@ -1,7 +1,7 @@
 Chipmunk_and_Box2D_of_cocos2dx_ported_to_Android-Apps_as_to_work.
 =============================
 I ported **cocos2d-x**( or cocos2dx? that is one of the famous game libraries)**'s "chipmunk" & "BOX2D"**  
-to the Android Apps(applications) as  to work. **( Movie → ) http://youtu.be/fEVbocT8BtE **    
+to the Android Apps(applications) as  to work. <b>( Movie → )<i> http://youtu.be/fEVbocT8BtE </i></b>  
 <pre><b>NOTE : HWc&h = HelloWorldScene.cpp and HelloWorldScene.h</b> ( are "C++(cpp & h) files". )
 <b>, Ap = Application.mk , A = Android.mk</b>  ( are "mk files". )
 <b>Dir(fld)</b> = Directory(or Folder) , <b>j = jni(Dir) , h =  helloworld(Dir) , C = Classes(Dir)
