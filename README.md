@@ -131,6 +131,5 @@ but the way isn't create e.g."proguard.cfg"</b>(as perhaps preventing to recompi
 All of the version 13 beta sample
 (</b>&nbsp;e.g. "HellowWorld" and <b>not only "HelloWorld"</b>(<b>"HelloLua" and "test", and others</b>)&nbsp;<b>)</b>
 that contains from the present<b>, it may be so.
-&nbsp; &nbsp; &nbsp; " Please refer to this video.&nbsp;→"</b> &nbsp;
-<a href="http://www.youtube.com/watch?v=EVKQXgVx4jg">http://www.youtube.com/watch?v=EVKQXgVx4jg</a>
+&nbsp; &nbsp; &nbsp; " Please refer to this video.&nbsp;→"</b> &nbsp; <a href="http://www.youtube.com/watch?v=EVKQXgVx4jg">http://www.youtube.com/watch?v=EVKQXgVx4jg</a>
 </pre>
